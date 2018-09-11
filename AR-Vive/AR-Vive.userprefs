@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SteamVR\Scripts\SteamVR_ControllerManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Vive body tracking\Scripts\AssignTrackersToLimbs.cs">
     <Files>
       <File FileName="Assets\SteamVR\Scripts\SteamVR_ControllerManager.cs" Line="255" Column="114" />
+      <File FileName="Assets\Vive body tracking\Scripts\AssignTrackersToLimbs.cs" Line="132" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

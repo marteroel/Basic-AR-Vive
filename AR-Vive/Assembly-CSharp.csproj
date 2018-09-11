@@ -155,6 +155,11 @@
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_TrackedObject.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
+     <Compile Include="Assets\Vive body tracking\Scripts\AssignTrackersToLimbs.cs" />
+     <Compile Include="Assets\Vive body tracking\Scripts\AvatarScaler.cs" />
+     <Compile Include="Assets\Vive body tracking\Scripts\CalibrationController.cs" />
+     <Compile Include="Assets\Vive body tracking\Scripts\ControllerButtonManager.cs" />
+     <Compile Include="Assets\Vive body tracking\Scripts\WaitForFixedTime.cs" />
      <Compile Include="Assets\ViveSR\Scripts\Portal\ViveSR_Portal.cs" />
      <Compile Include="Assets\ViveSR\Scripts\Portal\ViveSR_PortalMgr.cs" />
      <Compile Include="Assets\ViveSR\Scripts\Portal\ViveSR_PortalTraveller.cs" />
@@ -444,6 +449,10 @@
  <Reference Include="Boo.Lang">
  <HintPath>C:/Program Files/Unity 2018/Editor/Data/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{2E8F5FD0-10E9-7BB0-33F3-6A954CFC571E}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
