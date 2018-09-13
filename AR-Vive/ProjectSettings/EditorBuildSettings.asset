@@ -4,4 +4,38 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Simple VAS VR/Scenes/Intro.unity
+    guid: 361fabc4803e28e4999ca03188373cd9
+  - enabled: 1
+    path: Assets/Simple VAS VR/Scenes/Inter.unity
+    guid: 1832ba3d1537a024198a682a266b7dda
+  - enabled: 1
+    path: Assets/Scenes/AR glove.unity
+    guid: 4ce896bc32acc2b4b9ee2b1410f5fb3d
+  - enabled: 1
+    path: Assets/Scenes/AR no glove.unity
+    guid: ee900939970830c45acbf95e3ff024d7
+  - enabled: 1
+    path: Assets/Scenes/VR glove.unity
+    guid: 7048e6933febae44bb9a7cb42fffa1c4
+  - enabled: 1
+    path: Assets/Scenes/VR no glove.unity
+    guid: cd455a2887754814389c4b724ddf87a1
+  - enabled: 1
+    path: Assets/Scenes/PR.unity
+    guid: aae973d6b6d1cb549a4c22f457072201
+  - enabled: 1
+    path: Assets/Scenes/PR no glove.unity
+    guid: cb726e1a6df029e41ae6ac85bd434dc1
+  - enabled: 1
+    path: Assets/Simple VAS VR/Scenes/Goodbye.unity
+    guid: d554c62776128664fb1d7f66afb581a8
+  - enabled: 1
+    path: Assets/Simple VAS VR/Scenes/Instructions.unity
+    guid: f957069e56562704f9972aabbf183600
+  - enabled: 1
+    path: Assets/Simple VAS VR/Scenes/VAS.unity
+    guid: 77e62a47afd891a489b011d7b492d175
+  m_configObjects: {}
