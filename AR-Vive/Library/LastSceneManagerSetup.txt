@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes II/AR_w_questionnaire test.unity
+- path: Assets/Scenes II/working basics AR.unity
   isLoaded: 1
   isActive: 1
