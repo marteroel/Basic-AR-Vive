@@ -10,7 +10,7 @@ namespace SimpleVAS
 
 		private string condition;
 		private static CsvWrite instance = null;
-		public static CsvWrite Instance
+		/*public static CsvWrite Instance
 		{
 			get { return instance; }
 		}
@@ -26,7 +26,7 @@ namespace SimpleVAS
 				instance = this;
 
 			DontDestroyOnLoad(this.gameObject);
-		}
+		}*/
 
 
 		void Start () {

@@ -6,8 +6,9 @@ using UnityEngine.SceneManagement;
 
 public class ConditionLoader : MonoBehaviour {
 
-	public bool isStimulationNotInstructions;
+	public bool isStimulationNotInstructions, isPostCondition;
 	public static int currentCondition;
+	public string conditionToLoadAfterStimulation;
 
 	// Use this for initialization
 	void Start () {
@@ -24,14 +25,19 @@ public class ConditionLoader : MonoBehaviour {
 	public void LoadScene() {
 
 		if (isStimulationNotInstructions) {
+			
 			currentCondition++;
-			SceneManager.LoadScene ("VAS");
+
+			if (isPostCondition) SceneManager.LoadScene ("Inter");
+			 
+			else {
+				if (BasicDataConfigurations.isPlacebo)	SceneManager.LoadScene (conditionToLoadAfterStimulation + " placebo");
+				else	SceneManager.LoadScene (conditionToLoadAfterStimulation);
+			}
 		}
+
 		else {
-			if (BasicDataConfigurations.isPlacebo)
-				SceneManager.LoadScene (ConditionDictionary.selectedOrder [currentCondition] + " glove");
-			else
-				SceneManager.LoadScene (ConditionDictionary.selectedOrder [currentCondition] + " no glove");
+				SceneManager.LoadScene (ConditionDictionary.selectedOrder [currentCondition]);
 		}
 
 			

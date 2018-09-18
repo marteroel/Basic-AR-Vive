@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes II/working basics AR.unity
+- path: Assets/Scenes III/VR post placebo.unity
   isLoaded: 1
   isActive: 1

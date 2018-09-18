@@ -10,6 +10,7 @@ public class CsvReadMultiple : MonoBehaviour {
 	//public string file;
 	public string[] files;
 	//public static List<string> questionnaireInput  = new List<string>(); /// MAYBE WORTH STOP USING STATIC VARIABLES
+	[System.NonSerialized]
 	public List<string> questionnaireInput = new List<string>();
 
 	// Use this for initialization

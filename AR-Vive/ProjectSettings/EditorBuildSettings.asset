@@ -12,24 +12,6 @@ EditorBuildSettings:
     path: Assets/Simple VAS VR/Scenes/Inter.unity
     guid: 1832ba3d1537a024198a682a266b7dda
   - enabled: 1
-    path: Assets/Scenes/AR glove.unity
-    guid: 4ce896bc32acc2b4b9ee2b1410f5fb3d
-  - enabled: 1
-    path: Assets/Scenes/AR no glove.unity
-    guid: ee900939970830c45acbf95e3ff024d7
-  - enabled: 1
-    path: Assets/Scenes/VR glove.unity
-    guid: 7048e6933febae44bb9a7cb42fffa1c4
-  - enabled: 1
-    path: Assets/Scenes/VR no glove.unity
-    guid: cd455a2887754814389c4b724ddf87a1
-  - enabled: 1
-    path: Assets/Scenes/PR.unity
-    guid: aae973d6b6d1cb549a4c22f457072201
-  - enabled: 1
-    path: Assets/Scenes/PR no glove.unity
-    guid: cb726e1a6df029e41ae6ac85bd434dc1
-  - enabled: 1
     path: Assets/Simple VAS VR/Scenes/Goodbye.unity
     guid: d554c62776128664fb1d7f66afb581a8
   - enabled: 1
@@ -38,4 +20,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Simple VAS VR/Scenes/VAS.unity
     guid: 77e62a47afd891a489b011d7b492d175
+  - enabled: 1
+    path: Assets/Scenes III/PR post.unity
+    guid: bf5decb2734d8564f81e11e218250fe9
+  - enabled: 1
+    path: Assets/Scenes III/VR post.unity
+    guid: e86d5cd7777c8fe41b8cd44b6d96eb6f
+  - enabled: 1
+    path: Assets/Scenes III/VR post placebo.unity
+    guid: 879455647a0a6064a83b70712086526d
+  - enabled: 1
+    path: Assets/Scenes III/VR pre.unity
+    guid: 477a48697b3f82d43800483cbc6a7138
+  - enabled: 1
+    path: Assets/Scenes III/AR.unity
+    guid: 348900939b1d64d45990ff8b689c8718
+  - enabled: 1
+    path: Assets/Scenes III/AR post.unity
+    guid: 11c8fd648a61f2e41b31b68e6b0751d4
+  - enabled: 1
+    path: Assets/Scenes III/AR post placebo.unity
+    guid: b67f5c0b315e0ac4a8ef270ee6a2bd66
   m_configObjects: {}

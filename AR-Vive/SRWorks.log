@@ -6380,3 +6380,539 @@
 [Vive SRWorks] [2018-09-18 16:43:26] [LOG] ViveSR_Stop() end
 [Vive SRWorks] [2018-09-18 16:43:41] [LOG] UnitySetGraphicsDevice:: D3D11
 [Vive SRWorks] [2018-09-18 16:43:43] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] CPU GetMemory InUse : 7854.000000
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] GPU memory usage : 2744.566406
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] GPU memory loading: 0
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] ViveSR_CreateModule() start
+[JSON] [2018-09-18 18:41:21] [LOG] found steam install path
+[JSON] [2018-09-18 18:41:21] [-!-ERROR-!-] [CODE: 0x4E31] openvr api init fail @FindValidConfigFile:309
+[JSON] [2018-09-18 18:41:21] [LOG] MIE_GCP_00000
+[JSON] [2018-09-18 18:41:21] [LOG] found steam install path
+[JSON] [2018-09-18 18:41:21] [-!-ERROR-!-] [CODE: 0x4E31] openvr api init fail @FindValidConfigFile:309
+[JSON] [2018-09-18 18:41:21] [LOG] MIE_GCP_00000
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 18:41:21] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] CPU GetMemory InUse : 7627.000000
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] GPU memory usage : 2795.851563
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] GPU memory loading: 23
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 18:50:53] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] CPU GetMemory InUse : 7788.000000
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] GPU memory usage : 3628.628906
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:40:28] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] CPU GetMemory InUse : 7647.000000
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] GPU memory usage : 3681.871094
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:41:38] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] CPU GetMemory InUse : 7715.000000
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] GPU memory usage : 3550.878906
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] GPU memory loading: 25
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:41:53] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] CPU GetMemory InUse : 8031.000000
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] GPU memory usage : 3787.070313
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] GPU memory loading: 25
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:47:43] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] CPU GetMemory InUse : 7933.000000
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] GPU memory usage : 3839.695313
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:48:46] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] CPU GetMemory InUse : 7972.000000
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] GPU memory usage : 3892.195313
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:51:51] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] CPU GetMemory InUse : 7973.000000
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] GPU memory usage : 3709.289063
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] GPU memory loading: 34
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:51:52] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] CPU GetMemory InUse : 7957.000000
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] GPU memory usage : 3944.695313
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:52:31] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] CPU GetMemory InUse : 7934.000000
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] GPU memory usage : 3997.320313
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] GPU memory loading: 25
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:52:39] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] CPU GetMemory InUse : 7936.000000
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] GPU memory usage : 3814.539063
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] GPU memory loading: 35
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:52:41] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] CPU GetMemory InUse : 8170.000000
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] GPU memory usage : 3866.359375
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:53:34] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] CPU GetMemory InUse : 8143.000000
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] GPU memory usage : 4102.417969
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] CPU GetMemory InUse : 8129.000000
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] GPU memory usage : 4018.851563
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] GPU memory loading: 34
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:53:42] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:54:20] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] CPU GetMemory InUse : 8132.000000
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] GPU memory usage : 4155.042969
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] GPU memory loading: 25
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:54:21] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] CPU GetMemory InUse : 8141.000000
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] GPU memory usage : 4071.199219
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] GPU memory loading: 35
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:54:22] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] CPU GetMemory InUse : 8167.000000
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] GPU memory usage : 4207.765625
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 19:55:25] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] CPU GetMemory InUse : 7334.000000
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] GPU memory usage : 4260.078125
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] GPU memory loading: 4
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:00:02] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] CPU GetMemory InUse : 7333.000000
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] GPU memory usage : 4077.449219
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] GPU memory loading: 11
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:00:03] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] CPU GetMemory InUse : 7211.000000
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] GPU memory usage : 4311.605469
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] GPU memory loading: 2
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:01:48] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] CPU GetMemory InUse : 7206.000000
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] GPU memory usage : 4228.039063
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] GPU memory loading: 11
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:01:49] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:02:11] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] CPU GetMemory InUse : 7263.000000
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] GPU memory usage : 4363.468750
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] GPU memory loading: 1
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:02:12] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] CPU GetMemory InUse : 7282.000000
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] GPU memory usage : 4414.507813
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] GPU memory loading: 1
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:02:58] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] CPU GetMemory InUse : 7270.000000
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] GPU memory usage : 4231.726563
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] GPU memory loading: 11
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:02:59] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] CPU GetMemory InUse : 7457.000000
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] GPU memory usage : 4339.417969
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:07:19] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] CPU GetMemory InUse : 7444.000000
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] GPU memory usage : 4284.636719
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] GPU memory loading: 34
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:07:20] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:07:51] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2018-09-18 20:07:53] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] CPU GetMemory InUse : 6818.000000
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] GPU memory usage : 2578.277344
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] GPU memory loading: 24
+[Vive SRWorks] [2018-09-18 20:10:12] [LOG] ViveSR_CreateModule() start
+[JSON] [2018-09-18 20:10:12] [LOG] found steam install path
+[JSON] [2018-09-18 20:10:13] [-!-ERROR-!-] [CODE: 0x4E31] openvr api init fail @FindValidConfigFile:309
+[JSON] [2018-09-18 20:10:13] [LOG] MIE_GCP_00000
+[JSON] [2018-09-18 20:10:13] [LOG] found steam install path
+[JSON] [2018-09-18 20:10:13] [-!-ERROR-!-] [CODE: 0x4E31] openvr api init fail @FindValidConfigFile:309
+[JSON] [2018-09-18 20:10:13] [LOG] MIE_GCP_00000
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] CPU GetMemory InUse : 6847.000000
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] GPU memory usage : 2424.570313
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] GPU memory loading: 38
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 20:10:13] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 20:35:02] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2018-09-18 20:35:03] [LOG] UnitySetGraphicsDevice:: D3D11

@@ -1,0 +1,10 @@
+subject ID,age,gender,handedness,question ID,condition,value
+m,m,Female,Rigth handed,0,VR,0.3902567
+m,m,Female,Rigth handed,1,VR,0.6649684
+m,m,Female,Rigth handed,0,VR,0.5112399
+m,m,Female,Rigth handed,1,VR,0.5961487
+subject ID,age,gender,handedness,question ID,condition,value
+m,m,Female,Rigth handed,0,VR,0.3000015
+m,m,Female,Rigth handed,1,VR,0.6307203
+m,m,Female,Rigth handed,0,VR,0.3793315
+m,m,Female,Rigth handed,1,VR,0.481535
