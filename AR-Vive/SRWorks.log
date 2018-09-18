@@ -5967,3 +5967,53 @@
 [Vive SRWorks] [2018-09-13 15:33:59] [LOG] ViveSR_Stop() end
 [Vive SRWorks] [2018-09-13 15:37:17] [LOG] UnitySetGraphicsDevice:: D3D11
 [Vive SRWorks] [2018-09-13 15:37:18] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2018-09-17 14:08:11] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-17 14:08:11] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-17 14:08:11] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-17 14:08:11] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-17 14:08:11] [LOG] CPU GetMemory InUse : 8015.000000
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] GPU memory usage : 1221.183594
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] GPU memory loading: 1
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] ViveSR_CreateModule() start
+[JSON] [2018-09-17 14:08:12] [LOG] found steam install path
+[JSON] [2018-09-17 14:08:12] [-!-ERROR-!-] [CODE: 0x4E31] openvr api init fail @FindValidConfigFile:309
+[JSON] [2018-09-17 14:08:12] [LOG] MIE_GCP_00000
+[JSON] [2018-09-17 14:08:12] [LOG] found steam install path
+[JSON] [2018-09-17 14:08:12] [-!-ERROR-!-] [CODE: 0x4E31] openvr api init fail @FindValidConfigFile:309
+[JSON] [2018-09-17 14:08:12] [LOG] MIE_GCP_00000
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-17 14:08:12] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-17 16:00:35] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2018-09-17 16:00:36] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2018-09-18 12:09:16] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2018-09-18 12:09:16] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2018-09-18 12:09:16] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2018-09-18 12:09:16] [LOG] CPU GetMemory Total : 16286.000000
+[Vive SRWorks] [2018-09-18 12:09:16] [LOG] CPU GetMemory InUse : 6196.000000
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] GPU : GeForce GTX 1060 with Max-Q Design
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] GPU driver : 39907
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] GPU memory usage : 3349.632813
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] GPU memory loading: 27
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] ViveSR_CreateModule() start
+[JSON] [2018-09-18 12:09:17] [LOG] found steam install path
+[JSON] [2018-09-18 12:09:17] [-!-ERROR-!-] [CODE: 0x4E31] openvr api init fail @FindValidConfigFile:309
+[JSON] [2018-09-18 12:09:17] [LOG] MIE_GCP_00000
+[JSON] [2018-09-18 12:09:17] [LOG] found steam install path
+[JSON] [2018-09-18 12:09:17] [-!-ERROR-!-] [CODE: 0x4E31] openvr api init fail @FindValidConfigFile:309
+[JSON] [2018-09-18 12:09:17] [LOG] MIE_GCP_00000
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] CM_MT1_10002res-1
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2018-09-18 12:09:17] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2018-09-18 12:10:23] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2018-09-18 12:10:24] [LOG] UnitySetGraphicsDevice:: D3D11

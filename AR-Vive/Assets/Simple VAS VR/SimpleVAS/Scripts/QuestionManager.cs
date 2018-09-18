@@ -14,23 +14,49 @@ namespace SimpleVAS
 		public Text questionUI;
 		public Button nextButton;
 		public Scrollbar scrollValue;
+		public ConditionLoader sceneLoader;
 
-		public CsvWrite csvWriter;
+		private CsvWrite csvWriter;
+		private CsvReadMultiple csvReader;
+
+		public GameObject UiObject;
 
 		public static string questionnaireItem, VASvalue;
 
-		private int currentItem;
+		private int currentItem, currentQuestionnaire;
 
 		public static int currentCondition;
+
 
 		// Use this for initialization
 		void Start () {
 
 			currentItem = 0;
-			questionList = CsvRead.questionnaireInput;
-			questionUI.text = questionList[currentItem];
 			nextButton.interactable = false;
 
+			csvWriter = GetComponent<CsvWrite> ();
+			csvReader = GetComponent<CsvReadMultiple> ();
+		}
+
+		void Update() {
+
+			if (Input.GetKeyDown ("space") && UiObject.activeSelf != true) {
+				ManageUI ();
+			}
+	
+		}
+
+		public void ManageUI (){
+			
+			if (UiObject.activeSelf == true)
+				UiObject.SetActive (false);
+			
+			else {
+				csvReader.LoadQuestionnaire(currentQuestionnaire);
+				UiObject.SetActive (true);
+				questionList = csvReader.questionnaireInput;
+				questionUI.text = questionList[currentItem];
+			}
 		}
 			
 		public void OnScaleSelection(){
@@ -49,18 +75,24 @@ namespace SimpleVAS
 
 			currentItem ++;
 
-			if (currentItem < questionList.Count) 
+			if (currentItem < questionList.Count) {
 				questionUI.text = questionList [currentItem];
+				Debug.Log ("there are still items in the current questionnaire");
+			}
 
 
 			else if (currentItem == questionList.Count) {
+				currentQuestionnaire++;
 				currentItem = 0;
 				questionList.Clear();
-				currentCondition = currentCondition + 1;
+				//ManageUI();
 
-				if(currentCondition < ConditionDictionary.selectedOrder.Length) SceneManager.LoadScene("Inter");
-				else if (currentCondition == ConditionDictionary.selectedOrder.Length) SceneManager.LoadScene ("Goodbye");
+				if (currentQuestionnaire < csvReader.files.Length) ManageUI ();
+				else sceneLoader.LoadScene ();
 			}
 		}
+
+
+
 	}
 }

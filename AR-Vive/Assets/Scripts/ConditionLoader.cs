@@ -16,12 +16,12 @@ public class ConditionLoader : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown ("space")) {
-			OnNextButton ();
+		if (Input.GetKeyDown ("return")) {
+			LoadScene ();
 		}
 	}
 
-	public void OnNextButton() {
+	public void LoadScene() {
 
 		if (isStimulationNotInstructions) {
 			currentCondition++;

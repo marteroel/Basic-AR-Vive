@@ -1,14 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ConditionLoader.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Simple VAS VR\SimpleVRUI\Scripts\VRButton.cs">
     <Files>
-      <File FileName="Assets\SteamVR\Scripts\SteamVR_ControllerManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Vive body tracking\Scripts\AssignTrackersToLimbs.cs" Line="1" Column="1" />
-      <File FileName="Assets\Simple VAS VR\SimpleVAS\Scripts\BasicDataConfigurations.cs" Line="1" Column="1" />
-      <File FileName="Assets\Simple VAS VR\SimpleVAS\Scripts\ConditionDictionary.cs" Line="1" Column="1" />
-      <File FileName="Assets\Simple VAS VR\SimpleVAS\Scripts\LoadScene.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ConditionLoader.cs" Line="40" Column="1" />
-      <File FileName="Assets\Scripts\InstructionsManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CsvReadMultiple.cs" Line="12" Column="116" />
+      <File FileName="Assets\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="89" Column="5" />
+      <File FileName="Assets\Simple VAS VR\SimpleVRUI\Scripts\VRButton.cs" Line="78" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

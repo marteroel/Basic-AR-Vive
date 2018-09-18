@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Simple VAS VR/Scenes/Intro.unity
+- path: Assets/Scenes II/AR_w_questionnaire test.unity
   isLoaded: 1
   isActive: 1
