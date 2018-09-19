@@ -26,19 +26,27 @@ public class ConditionLoader : MonoBehaviour {
 
 		if (isStimulationNotInstructions) {
 			
-			currentCondition++;
 
-			if (isPostCondition) SceneManager.LoadScene ("Inter");
-			 
+
+			if (isPostCondition) {
+				currentCondition++;
+				Debug.Log ("current condition is " + currentCondition + " dictionary lenght is " + ConditionDictionary.selectedOrder.Length);
+
+				if (currentCondition < ConditionDictionary.selectedOrder.Length)
+					SceneManager.LoadScene ("Inter");
+				else
+					SceneManager.LoadScene ("Goodbye");
+			}
+
 			else {
 				if (BasicDataConfigurations.isPlacebo)	SceneManager.LoadScene (conditionToLoadAfterStimulation + " placebo");
+
 				else	SceneManager.LoadScene (conditionToLoadAfterStimulation);
 			}
 		}
 
-		else {
-				SceneManager.LoadScene (ConditionDictionary.selectedOrder [currentCondition]);
-		}
+			else SceneManager.LoadScene (ConditionDictionary.selectedOrder [currentCondition]);
+
 
 			
 	}
