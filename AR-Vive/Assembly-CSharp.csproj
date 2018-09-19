@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\ConditionLoader.cs" />
      <Compile Include="Assets\Scripts\CsvReadMultiple.cs" />
+     <Compile Include="Assets\Scripts\GenderSelector.cs" />
      <Compile Include="Assets\Scripts\InstructionsManager.cs" />
      <Compile Include="Assets\Scripts\SceneStageManager.cs" />
      <Compile Include="Assets\Simple VAS VR\SimpleVAS\Scripts\BasicDataConfigurations.cs" />

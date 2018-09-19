@@ -30,7 +30,7 @@ EditorBuildSettings:
     path: Assets/Scenes III/VR post placebo.unity
     guid: 879455647a0a6064a83b70712086526d
   - enabled: 1
-    path: Assets/Scenes III/VR pre.unity
+    path: Assets/Scenes III/VR.unity
     guid: 477a48697b3f82d43800483cbc6a7138
   - enabled: 1
     path: Assets/Scenes III/AR.unity
