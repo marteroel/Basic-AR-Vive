@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-Vive", "Assembly-CSharp.csproj", "{03D61DDC-AC01-485E-1865-14798FFF5BD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{03D61DDC-AC01-485E-1865-14798FFF5BD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-Vive", "Assembly-CSharp-firstpass.csproj", "{2E8F5FD0-10E9-7BB0-33F3-6A954CFC571E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{2E8F5FD0-10E9-7BB0-33F3-6A954CFC571E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-Vive", "Assembly-CSharp-Editor.csproj", "{20DCAE85-2C8C-D9A3-1229-E91332098BFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{20DCAE85-2C8C-D9A3-1229-E91332098BFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-Vive", "Assembly-CSharp-Editor-firstpass.csproj", "{C820E071-590F-02F3-1372-6A75F4CD31F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{C820E071-590F-02F3-1372-6A75F4CD31F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
