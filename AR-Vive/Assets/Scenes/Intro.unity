@@ -2568,6 +2568,7 @@ GameObject:
   - component: {fileID: 1382961451}
   - component: {fileID: 1382961455}
   - component: {fileID: 1382961456}
+  - component: {fileID: 1382961457}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2691,6 +2692,19 @@ MonoBehaviour:
   condition2: AR
   condition3: PR
   conditionOrder: {fileID: 1394922147}
+--- !u!114 &1382961457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1382961450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 275bf87eed212447590b8c34f5351655, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneToLoad: Mood pre
+  changeOnKey: 0
 --- !u!1 &1394922145
 GameObject:
   m_ObjectHideFlags: 0
@@ -4443,7 +4457,6 @@ GameObject:
   - component: {fileID: 2009352320}
   - component: {fileID: 2009352319}
   - component: {fileID: 2009352318}
-  - component: {fileID: 2009352321}
   m_Layer: 5
   m_Name: Weiter
   m_TagString: Untagged
@@ -4531,7 +4544,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2009352321}
+      - m_Target: {fileID: 1382961457}
         m_MethodName: OnNextButton
         m_Mode: 1
         m_Arguments:
@@ -4578,19 +4591,6 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2009352316}
   m_CullTransparentMesh: 0
---- !u!114 &2009352321
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2009352316}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 275bf87eed212447590b8c34f5351655, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sceneToLoad: Inter
-  changeOnKey: 0
 --- !u!1 &2075195237
 GameObject:
   m_ObjectHideFlags: 0

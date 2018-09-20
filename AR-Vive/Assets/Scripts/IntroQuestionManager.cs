@@ -14,12 +14,14 @@ namespace SimpleVAS {
 		public Text questionUI;
 		public Button nextButton;
 		public Scrollbar scrollValue;
-		public LoadScene sceneLoader;
+		public ConditionLoader sceneLoader;
 
-		private CsvWrite csvWriter;
+		public CsvWrite csvWriter;
+		private VASLabeler labeler;
 		private CsvReadMultiple csvReader;
+		//private CsvReadMultiple csvReader;
 
-		public GameObject UiObject;
+		//public GameObject UiObject;
 
 		public static string questionnaireItem, VASvalue;
 
@@ -33,31 +35,21 @@ namespace SimpleVAS {
 
 			currentItem = 0;
 			nextButton.interactable = false;
-
-			csvWriter = GetComponent<CsvWrite> ();
 			csvReader = GetComponent<CsvReadMultiple> ();
+			labeler = GetComponent<VASLabeler> ();
+
+			csvReader.LoadQuestionnaire(currentQuestionnaire);
+			questionList = csvReader.questionnaireInput;
+			questionUI.text = questionList [currentItem];
+			labeler.ChangeLabels (currentQuestionnaire);
+
 		}
 
 		void Update() {
 
-			if (Input.GetKeyDown ("space") && UiObject.activeSelf != true) {
-				ManageUI ();
-			}
-
 		}
 
-		public void ManageUI (){
 
-			if (UiObject.activeSelf == true)
-				UiObject.SetActive (false);
-
-			else {
-				csvReader.LoadQuestionnaire(currentQuestionnaire);
-				UiObject.SetActive (true);
-				questionList = csvReader.questionnaireInput;
-				questionUI.text = questionList[currentItem];
-			}
-		}
 
 		public void OnScaleSelection(){
 
@@ -70,12 +62,16 @@ namespace SimpleVAS {
 
 			nextButton.interactable = false;
 			questionnaireItem = currentItem.ToString ();
-			VASvalue = scrollValue.value.ToString();
+			QuestionManager.VASvalue = scrollValue.value.ToString();//This is a bit problematic but solved in this dirty way
+			Debug.Log ("THE VALUE IS " + QuestionManager.VASvalue);
+			scrollValue.value = 0.5f;
 			csvWriter.onNextButtonPressed ();
+
 
 			currentItem ++;
 
 			if (currentItem < questionList.Count) {
+				labeler.ChangeLabels (currentQuestionnaire);
 				questionUI.text = questionList [currentItem];
 				Debug.Log ("there are still items in the current questionnaire");
 			}
@@ -85,10 +81,16 @@ namespace SimpleVAS {
 				currentQuestionnaire++;
 				currentItem = 0;
 				questionList.Clear();
-				//ManageUI();
 
-				if (currentQuestionnaire < csvReader.files.Length) ManageUI ();
-				else sceneLoader.OnNextButton ();
+				if (currentQuestionnaire < csvReader.files.Length) {
+					labeler.ChangeLabels (currentQuestionnaire);
+					csvReader.LoadQuestionnaire (currentQuestionnaire);
+					//UiObject.SetActive (true);
+					questionList = csvReader.questionnaireInput;
+					questionUI.text = questionList [currentItem];
+				}
+
+				else  sceneLoader.LoadScene ();
 			}
 		}
 

@@ -156,6 +156,7 @@
      <Compile Include="Assets\Scripts\InstructionsManager.cs" />
      <Compile Include="Assets\Scripts\IntroQuestionManager.cs" />
      <Compile Include="Assets\Scripts\SceneStageManager.cs" />
+     <Compile Include="Assets\Scripts\VASLabeler.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />

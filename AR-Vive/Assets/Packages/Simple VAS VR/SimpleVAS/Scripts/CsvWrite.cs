@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using SimpleVAS;
+using UnityEngine.SceneManagement;
 
 namespace SimpleVAS 
 {
@@ -30,14 +31,17 @@ namespace SimpleVAS
 
 
 		void Start () {
-			WriteToFile ("subject ID", "age", "gender", "handedness", "question ID", "condition", "value");
+			WriteToFile ("subject ID", "age", "gender", "handedness", "placebo", "question ID", "questionnaire ID", "condition", "value");
 		}
 			
 
 		public void onNextButtonPressed(){
+
+			string currentScene = SceneManager.GetActiveScene ().name;
+
 			if (BasicDataConfigurations.ID == null)
 				LoadNull ();
-			WriteToFile (BasicDataConfigurations.ID, BasicDataConfigurations.age, BasicDataConfigurations.gender, BasicDataConfigurations.handedness, QuestionManager.questionnaireItem,  ConditionDictionary.selectedOrder[QuestionManager.currentCondition], QuestionManager.VASvalue);
+			WriteToFile (BasicDataConfigurations.ID, BasicDataConfigurations.age, BasicDataConfigurations.gender, BasicDataConfigurations.handedness, BasicDataConfigurations.placebo, QuestionManager.questionnaireItem,  QuestionManager.currentQuestionnaireToWrite, currentScene, QuestionManager.VASvalue);
 		}
 
 		void LoadNull(){
@@ -49,9 +53,9 @@ namespace SimpleVAS
 			ConditionDictionary.selectedOrder = new string[3] {na, na, na};
 		}
 
-		void WriteToFile(string a, string b, string c, string d, string e, string f, string g){
+		void WriteToFile(string a, string b, string c, string d, string e, string f, string g, string h, string i){
 
-			string stringLine =  a + "," + b + "," + c + "," + d + "," + e + "," + f + "," + g;
+			string stringLine =  a + "," + b + "," + c + "," + d + "," + e + "," + f + "," + g + "," + h + "," + i;
 
 			System.IO.StreamWriter file = new System.IO.StreamWriter("./Logs/" + BasicDataConfigurations.ID + "_log.csv", true);
 			file.WriteLine(stringLine);

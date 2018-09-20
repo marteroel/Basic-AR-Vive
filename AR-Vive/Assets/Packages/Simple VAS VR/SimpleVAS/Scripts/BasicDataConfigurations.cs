@@ -12,7 +12,7 @@ namespace SimpleVAS
 		public Text genderField, handednessField;
 		public Button nextButton;
 		public Toggle placeboSwitch;
-		public static string ID, age, gender, handedness, conditionOrder;
+		public static string ID, age, gender, handedness, conditionOrder, placebo;
 		public static bool isPlacebo;
 
 		// Use this for initialization
@@ -38,6 +38,11 @@ namespace SimpleVAS
 			gender = genderField.text;
 			handedness = handednessField.text;
 			isPlacebo = placeboSwitch.isOn;
+
+			if (isPlacebo)
+				placebo = "1";
+			else
+				placebo = "0";
 		}
 
 	}

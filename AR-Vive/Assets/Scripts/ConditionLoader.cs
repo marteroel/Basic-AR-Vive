@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class ConditionLoader : MonoBehaviour {
 
-	public bool isStimulationNotInstructions, isPostCondition;
+	public bool isStimulationNotInstructions, isPostCondition, isPreQuestionnaire;
 	public static int currentCondition;
 	public string conditionToLoadAfterStimulation;
 
@@ -25,8 +25,6 @@ public class ConditionLoader : MonoBehaviour {
 	public void LoadScene() {
 
 		if (isStimulationNotInstructions) {
-			
-
 
 			if (isPostCondition) {
 				currentCondition++;
@@ -36,18 +34,18 @@ public class ConditionLoader : MonoBehaviour {
 					SceneManager.LoadScene ("Inter");
 				else
 					SceneManager.LoadScene ("Goodbye");
+			} else {
+				if (BasicDataConfigurations.isPlacebo)
+					SceneManager.LoadScene (conditionToLoadAfterStimulation + " placebo");
+				else
+					SceneManager.LoadScene (conditionToLoadAfterStimulation);
 			}
-
-			else {
-				if (BasicDataConfigurations.isPlacebo)	SceneManager.LoadScene (conditionToLoadAfterStimulation + " placebo");
-
-				else	SceneManager.LoadScene (conditionToLoadAfterStimulation);
-			}
+		} else {
+			if (isPreQuestionnaire)
+				SceneManager.LoadScene ("Inter");
+			else
+				SceneManager.LoadScene (ConditionDictionary.selectedOrder [currentCondition]);
 		}
-
-			else SceneManager.LoadScene (ConditionDictionary.selectedOrder [currentCondition]);
-
-
 			
 	}
 }

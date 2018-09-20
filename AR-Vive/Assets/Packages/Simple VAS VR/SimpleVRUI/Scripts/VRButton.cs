@@ -67,17 +67,18 @@ using VRStandardAssets.Menu;
 		void Update () {
 
 			if (m_GazeOver && attachedButton.IsInteractable()) 	elapsedSinceGazed = (Time.realtimeSinceStartup - timeAtGaze);
-
 			else if (!m_GazeOver) elapsedSinceGazed = 0;
 
 			if (elapsedSinceGazed >= gazeTimeForSelection) {
-
+			
+				elapsedSinceGazed = 0; //restart time count
+				
+				//if (m_CameraFade != null) StartCoroutine (ActivateFade()); //not using in embeded questionnaires
+				
+				m_GazeOver = false; 
 				attachedButton.onClick.Invoke (); //"clicks" the button
 				attachedButton.interactable = false;
-
-				if (m_CameraFade != null) StartCoroutine (ActivateFade());
-				elapsedSinceGazed = 0; //restart time count
-
+		
 			}
 		}	
 		
