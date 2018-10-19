@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using SimpleVAS;
 using UnityEngine.SceneManagement;
+using Vive.Plugin.SR;
 
 public class ConditionLoader : MonoBehaviour {
 
 	public bool isStimulationNotInstructions, isPostCondition, isPreQuestionnaire;
 	public static int currentCondition;
 	public string conditionToLoadAfterStimulation;
+
+	public ViveSR viveSR;
 
 	// Use this for initialization
 	void Start () {
@@ -18,8 +21,15 @@ public class ConditionLoader : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown ("return")) {
-			LoadScene ();
+			viveSR.StopFramework ();
+			StartCoroutine (WaitToLoadScene ());
+			//LoadScene ();
 		}
+	}
+
+	private IEnumerator WaitToLoadScene(){
+		yield return new WaitForSecondsRealtime (4f);
+		LoadScene ();
 	}
 
 	public void LoadScene() {

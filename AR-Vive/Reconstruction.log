@@ -310,3 +310,11 @@
 
 [Reconstruction Engine] [2018-09-20 16:12:02] [LOG] Set DataSource:0
 [Reconstruction Engine] [2018-09-20 16:12:02] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-19 14:45:49] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-19 14:45:49] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-19 14:45:51] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-19 14:47:34] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-19 14:47:34] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-19 14:47:34] [LOG] ViveStaticReconstruction Destruction
+
