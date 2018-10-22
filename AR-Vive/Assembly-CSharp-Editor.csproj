@@ -55,15 +55,15 @@
   <ItemGroup>
      <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
      <Compile Include="Assets\Packages\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
-     <Compile Include="Assets\Packages\ViveSR\Editor\ViveSR_DualCameraImageRendererEditor.cs" />
-     <Compile Include="Assets\Packages\ViveSR\Editor\ViveSR_RigidReconstructionRendererEditor.cs" />
-     <Compile Include="Assets\Packages\ViveSR\Scripts\Editor\ReconstructedAssetImporter.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Preferences.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Settings.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_SkyboxEditor.cs" />
      <Compile Include="Assets\SteamVR\Editor\SteamVR_Update.cs" />
+     <Compile Include="Assets\ViveSR\Editor\ViveSR_DualCameraImageRendererEditor.cs" />
+     <Compile Include="Assets\ViveSR\Editor\ViveSR_RigidReconstructionRendererEditor.cs" />
+     <Compile Include="Assets\ViveSR\Scripts\Editor\ReconstructedAssetImporter.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>D:/Lab members/Marte/Basic-AR-Vive/AR-Vive/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
