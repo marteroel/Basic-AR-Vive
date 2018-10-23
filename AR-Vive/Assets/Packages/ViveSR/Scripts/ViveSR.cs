@@ -33,6 +33,10 @@ namespace Vive.Plugin.SR
             }
         }
 
+		//MR
+		public bool realWorldSwitch;
+		private bool isOn = false;
+
         void Start()
         {
             FrameworkStatus = FrameworkStatus.STOP;
@@ -41,6 +45,20 @@ namespace Vive.Plugin.SR
                 StartFramework();
             }
         }
+
+		void Update() {//MR
+			if (!isOn) {
+				if (realWorldSwitch) {
+					StartFramework ();
+					isOn = true;
+				}
+			}
+			if (isOn) {
+				if (!realWorldSwitch)
+					StopFramework ();	
+					isOn = false;
+			}
+		}
 
         void OnDestroy()
         {

@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ConditionLoader.cs">
     <Files>
-      <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="34" Column="2" />
-      <File FileName="Assets\Packages\ViveSR\Scripts\ViveSR.cs" Line="121" Column="30" />
-      <File FileName="Assets\Scripts\ConditionLoader.cs" Line="25" Column="40" />
+      <File FileName="Assets\Scripts\SR_SceneManager.cs" Line="10" Column="9" />
+      <File FileName="Assets\Scripts\ConditionLoader.cs" Line="70" Column="4" />
+      <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="115" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

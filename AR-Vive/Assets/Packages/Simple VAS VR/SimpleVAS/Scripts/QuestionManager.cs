@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using SimpleVAS;
-using Vive.Plugin.SR;
+//using Vive.Plugin.SR;
 
 namespace SimpleVAS {
 	
@@ -24,6 +24,9 @@ namespace SimpleVAS {
 		public GameObject UiObject;
 		public GameObject CameraUI;
 
+		public bool isAR;
+		//public SR_SceneManager AR_sceneManager;
+
 		public static string questionnaireItem, VASvalue;
 
 		private int currentItem, currentQuestionnaire;
@@ -31,7 +34,7 @@ namespace SimpleVAS {
 		public static int currentCondition;
 		public static string currentQuestionnaireToWrite;
 
-		public ViveSR viveSR;
+		//public ViveSR viveSR;
 
 		// Use this for initialization
 		void Start () {
@@ -100,13 +103,14 @@ namespace SimpleVAS {
 
 				if (currentQuestionnaire < csvReader.files.Length) { 
 					ManageUI ();
-				} else {
-					viveSR.StopFramework ();
-					sceneLoader.LoadScene ();
+				} 
 
+				else {
+						sceneLoader.LoadScene ();
 				}
 			}
 		}
+
 
 
 	}

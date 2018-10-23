@@ -336,3 +336,160 @@
 [Reconstruction Engine] [2018-10-22 17:16:27] [LOG] Set not to use sensor device
 [Reconstruction Engine] [2018-10-22 17:16:36] [LOG] ViveStaticReconstruction Destruction
 
+[Reconstruction Engine] [2018-10-23 10:25:38] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:25:38] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:25:45] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 10:27:45] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:27:45] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:27:45] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:27:45] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:27:45] [LOG] ViveStaticReconstruction Construction
+[Reconstruction Engine] [2018-10-23 10:27:48] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:27:48] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:27:48] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:27:48] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:33:50] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:33:50] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:33:56] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 10:34:12] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:34:12] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:35:11] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 10:35:18] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:35:18] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:40:03] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:40:03] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:40:03] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 10:40:45] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:40:45] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:40:46] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 10:41:02] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:41:02] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:41:02] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:41:02] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:41:02] [LOG] ViveStaticReconstruction Construction
+[Reconstruction Engine] [2018-10-23 10:41:05] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:41:05] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:41:05] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:41:05] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:46:21] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:46:21] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:46:26] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 10:46:40] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:46:40] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:46:40] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:46:40] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:46:40] [LOG] ViveStaticReconstruction Construction
+[Reconstruction Engine] [2018-10-23 10:46:43] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:46:43] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:46:43] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:46:43] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:48:44] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:48:44] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:49:18] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 10:49:37] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:49:37] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:49:37] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:49:37] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:49:37] [LOG] ViveStaticReconstruction Construction
+[Reconstruction Engine] [2018-10-23 10:49:40] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 10:49:40] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 10:49:40] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 10:49:40] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 11:01:17] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:01:17] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:01:22] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:01:33] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:01:33] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:01:33] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 11:01:33] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 11:01:33] [LOG] ViveStaticReconstruction Construction
+[Reconstruction Engine] [2018-10-23 11:01:36] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:01:36] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:01:36] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 11:01:36] [-WARNING-] [CODE: 0x0012] 
+[Reconstruction Engine] [2018-10-23 11:49:17] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:49:17] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:49:20] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:49:30] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:49:30] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:49:32] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:50:05] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:50:05] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:50:07] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:50:28] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:50:28] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:50:30] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:51:00] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:51:00] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:51:02] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:51:50] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:51:50] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:51:52] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:54:52] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:54:52] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:54:54] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:55:03] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:55:03] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:55:04] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 11:55:22] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 11:55:22] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 11:55:24] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 12:00:31] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:00:31] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:00:35] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 12:00:41] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:00:41] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:16:02] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:16:02] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:16:10] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 12:16:17] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:16:17] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:36:59] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:36:59] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:37:31] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 12:37:34] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:37:34] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:45:54] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:45:54] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:46:22] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 12:46:25] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:46:25] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:49:31] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:49:31] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:51:12] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 12:51:15] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:51:15] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:53:37] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:53:37] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 12:53:57] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 12:54:00] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 12:54:00] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 13:00:43] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 13:00:43] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-23 13:01:10] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-23 13:01:16] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-23 13:01:16] [LOG] Set not to use sensor device
