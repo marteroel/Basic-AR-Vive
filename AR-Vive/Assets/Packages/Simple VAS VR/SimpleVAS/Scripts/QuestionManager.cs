@@ -16,20 +16,26 @@ namespace SimpleVAS {
 		public Button nextButton;
 		public Scrollbar scrollValue;
 		public ConditionLoader sceneLoader;
+		public AvatarSelector avatarSelector;
+		public AR_GloveSelector gloveSelector;
 
 		private CsvWrite csvWriter;
 		private CsvReadMultiple csvReader;
 		private VASLabeler labeler;
+		private CSVconditionWriter conditionWriter;
 
 		public GameObject UiObject;
 		public GameObject CameraUI;
 
-		public bool isAR;
+		public int qNChangeCondition;//at which questionnaire index to change the condition
+		//public bool isAR;
 		//public SR_SceneManager AR_sceneManager;
 
 		public static string questionnaireItem, VASvalue;
 
-		private int currentItem, currentQuestionnaire;
+		private int currentItem, currentQuestionnaire, questionnaireToWrite, itemNumber;
+
+		private bool isPost = false;
 
 		public static int currentCondition;
 		public static string currentQuestionnaireToWrite;
@@ -39,6 +45,7 @@ namespace SimpleVAS {
 		// Use this for initialization
 		void Start () {
 
+			itemNumber = 0;
 			currentItem = 0;
 			currentQuestionnaire = 0;
 			nextButton.interactable = false;
@@ -46,6 +53,7 @@ namespace SimpleVAS {
 			csvWriter = GetComponent<CsvWrite> ();
 			csvReader = GetComponent<CsvReadMultiple> ();
 			labeler = GetComponent<VASLabeler> ();
+			conditionWriter = GetComponent<CSVconditionWriter> ();
 		}
 
 		void Update() {
@@ -62,7 +70,21 @@ namespace SimpleVAS {
 				UiObject.SetActive (false);
 				CameraUI.SetActive (false);
 			}
+
 			else {
+				if (itemNumber == qNChangeCondition && !isPost) {
+					Debug.Log ("it's CHANGING to POST");
+					conditionWriter.ChangeCondition ();
+					isPost = true;
+					currentItem = 0;
+					questionnaireToWrite = 0;
+					//change to post avatar here.
+					if (SceneManager.GetActiveScene ().name == "VR" && avatarSelector != null)
+						avatarSelector.ChangeToPost ();
+					if (SceneManager.GetActiveScene ().name == "AR" && gloveSelector != null)
+						gloveSelector.AddGlove ();
+				}
+				
 				labeler.ChangeLabels (currentQuestionnaire);
 				csvReader.LoadQuestionnaire(currentQuestionnaire);
 				UiObject.SetActive (true);
@@ -81,7 +103,7 @@ namespace SimpleVAS {
 
 		public void OnNextButton() {
 
-			currentQuestionnaireToWrite = currentQuestionnaire.ToString ();
+			currentQuestionnaireToWrite = questionnaireToWrite.ToString ();
 			//nextButton.interactable = false;
 			questionnaireItem = currentItem.ToString ();
 			VASvalue = scrollValue.value.ToString();
@@ -89,6 +111,7 @@ namespace SimpleVAS {
 			csvWriter.onNextButtonPressed ();
 
 			currentItem ++;
+			itemNumber++;
 
 			if (currentItem < questionList.Count) {
 				questionUI.text = questionList [currentItem];
@@ -97,6 +120,7 @@ namespace SimpleVAS {
 
 			else if (currentItem == questionList.Count) {
 				currentQuestionnaire++;
+				questionnaireToWrite++;
 				currentItem = 0;
 				questionList.Clear();
 				//ManageUI();

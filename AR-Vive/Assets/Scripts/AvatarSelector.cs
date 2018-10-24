@@ -1,0 +1,36 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using SimpleVAS;
+
+public class AvatarSelector : MonoBehaviour {
+
+	public GameObject malePre, femalePre, malePost, femalePost;
+
+	// Use this for initialization
+	void Start () {
+
+		if (BasicDataConfigurations.gender == "Male")
+			malePre.SetActive (true);
+		else
+			femalePost.SetActive (true);
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+
+	public void ChangeToPost(){
+		if (BasicDataConfigurations.isPlacebo) {
+			if (BasicDataConfigurations.gender == "Male") {
+				malePre.SetActive (false);
+				malePost.SetActive (true);
+			} else {
+				femalePre.SetActive (false);
+				femalePost.SetActive (true);
+			}
+		}
+	}
+		
+}

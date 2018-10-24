@@ -150,9 +150,11 @@
      <Compile Include="Assets\Packages\VRStandardAssets\Scripts\VRInput.cs" />
      <Compile Include="Assets\Packages\VRStandardAssets\Scripts\VRInteractiveItem.cs" />
      <Compile Include="Assets\Packages\VRStandardAssets\Scripts\VRTrackingReset.cs" />
+     <Compile Include="Assets\Scripts\AR_GloveSelector.cs" />
+     <Compile Include="Assets\Scripts\AvatarSelector.cs" />
      <Compile Include="Assets\Scripts\ConditionLoader.cs" />
+     <Compile Include="Assets\Scripts\CSVconditionWriter.cs" />
      <Compile Include="Assets\Scripts\CsvReadMultiple.cs" />
-     <Compile Include="Assets\Scripts\GenderSelector.cs" />
      <Compile Include="Assets\Scripts\InstructionsManager.cs" />
      <Compile Include="Assets\Scripts\IntroQuestionManager.cs" />
      <Compile Include="Assets\Scripts\SceneStageManager.cs" />

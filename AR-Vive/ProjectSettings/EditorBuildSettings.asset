@@ -15,35 +15,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Inter.unity
     guid: 1832ba3d1537a024198a682a266b7dda
   - enabled: 1
-    path: Assets/Scenes/AR.unity
-    guid: 348900939b1d64d45990ff8b689c8718
-  - enabled: 1
-    path: Assets/Scenes/AR post.unity
-    guid: 11c8fd648a61f2e41b31b68e6b0751d4
-  - enabled: 1
-    path: Assets/Scenes/AR post placebo.unity
-    guid: b67f5c0b315e0ac4a8ef270ee6a2bd66
-  - enabled: 1
-    path: Assets/Scenes/Instructions.unity
+    path: Assets/Scenes/Removed/Instructions.unity
     guid: f957069e56562704f9972aabbf183600
   - enabled: 1
-    path: Assets/Scenes/PR.unity
-    guid: 2fd3c91940ad5bd42b6ceea83809f72b
-  - enabled: 1
-    path: Assets/Scenes/PR post.unity
-    guid: bf5decb2734d8564f81e11e218250fe9
-  - enabled: 1
-    path: Assets/Scenes/PR post placebo.unity
-    guid: 125b063d42357d84a8d14e30ee64bb1a
+    path: Assets/Scenes/AR.unity
+    guid: b67f5c0b315e0ac4a8ef270ee6a2bd66
   - enabled: 1
     path: Assets/Scenes/VR.unity
     guid: 477a48697b3f82d43800483cbc6a7138
   - enabled: 1
-    path: Assets/Scenes/VR post.unity
-    guid: e86d5cd7777c8fe41b8cd44b6d96eb6f
-  - enabled: 1
-    path: Assets/Scenes/VR post placebo.unity
-    guid: 879455647a0a6064a83b70712086526d
+    path: Assets/Scenes/PR.unity
+    guid: 2fd3c91940ad5bd42b6ceea83809f72b
   - enabled: 1
     path: Assets/Scenes/Goodbye.unity
     guid: d554c62776128664fb1d7f66afb581a8

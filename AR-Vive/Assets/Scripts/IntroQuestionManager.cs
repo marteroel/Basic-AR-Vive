@@ -23,9 +23,8 @@ namespace SimpleVAS {
 
 		//public GameObject UiObject;
 
-		public static string questionnaireItem, VASvalue;
 
-		private int currentItem, currentQuestionnaire;
+		private int currentItem, currentQuestionnaire, itemToWrite;
 
 		public static int currentCondition;
 
@@ -33,6 +32,7 @@ namespace SimpleVAS {
 		// Use this for initialization
 		void Start () {
 
+			CSVconditionWriter.condition = "Mood";
 			currentItem = 0;
 			nextButton.interactable = false;
 			csvReader = GetComponent<CsvReadMultiple> ();
@@ -61,14 +61,14 @@ namespace SimpleVAS {
 		public void OnNextButton() {
 
 			nextButton.interactable = false;
-			questionnaireItem = currentItem.ToString ();
+			QuestionManager.questionnaireItem = itemToWrite.ToString();
 			QuestionManager.VASvalue = scrollValue.value.ToString();//This is a bit problematic but solved in this dirty way
-			Debug.Log ("THE VALUE IS " + QuestionManager.VASvalue);
+			//Debug.Log ("THE VALUE IS " + QuestionManager.VASvalue);
 			scrollValue.value = 0.5f;
 			csvWriter.onNextButtonPressed ();
 
-
 			currentItem ++;
+			itemToWrite++;
 
 			if (currentItem < questionList.Count) {
 				labeler.ChangeLabels (currentQuestionnaire);

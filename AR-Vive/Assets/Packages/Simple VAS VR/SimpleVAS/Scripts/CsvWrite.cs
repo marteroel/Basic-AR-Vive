@@ -37,11 +37,13 @@ namespace SimpleVAS
 
 		public void onNextButtonPressed(){
 
-			string currentScene = SceneManager.GetActiveScene ().name;
+			//string currentScene = SceneManager.GetActiveScene ().name;
 
 			if (BasicDataConfigurations.ID == null)
 				LoadNull ();
-			WriteToFile (BasicDataConfigurations.ID, BasicDataConfigurations.age, BasicDataConfigurations.gender, BasicDataConfigurations.handedness, BasicDataConfigurations.placebo, QuestionManager.questionnaireItem,  QuestionManager.currentQuestionnaireToWrite, currentScene, QuestionManager.VASvalue);
+			WriteToFile (BasicDataConfigurations.ID, BasicDataConfigurations.age, BasicDataConfigurations.gender, 
+				BasicDataConfigurations.handedness,	BasicDataConfigurations.placebo, QuestionManager.questionnaireItem,  
+				QuestionManager.currentQuestionnaireToWrite, CSVconditionWriter.condition, QuestionManager.VASvalue);
 		}
 
 		void LoadNull(){

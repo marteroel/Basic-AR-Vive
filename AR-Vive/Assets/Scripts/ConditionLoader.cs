@@ -7,11 +7,11 @@ using Vive.Plugin.SR;
 
 public class ConditionLoader : MonoBehaviour {
 
-	public bool isStimulationNotInstructions, isPostCondition, isPreQuestionnaire, isAR;
+	public bool isStimulationNotInstructions, isPostCondition, isPreQuestionnaire;
 	public static int currentCondition;
 	public string conditionToLoadAfterStimulation;
 
-	public SR_SceneManager AR_sceneManager;
+	//public SR_SceneManager AR_sceneManager;
 
 	// Use this for initialization
 	void Start () {
@@ -35,30 +35,17 @@ public class ConditionLoader : MonoBehaviour {
 
 		if (isStimulationNotInstructions) {
 
-			if (isPostCondition) {
-				currentCondition++;
-				Debug.Log ("current condition is " + currentCondition + " dictionary lenght is " + ConditionDictionary.selectedOrder.Length);
+			currentCondition++;
+			//Debug.Log ("current condition is " + currentCondition + " dictionary lenght is " + ConditionDictionary.selectedOrder.Length);
 
-				if (currentCondition < ConditionDictionary.selectedOrder.Length)
-					SceneManager.LoadScene ("Inter");
-				else
-					SceneManager.LoadScene ("Goodbye");
-			} else {
-				
-				if (isAR) {
-					if (AR_sceneManager != null) {
-						AR_sceneManager.TurnOFF ();
-						StartCoroutine (AR_stopper ());
-					}
-				} else {
-					if (BasicDataConfigurations.isPlacebo)
-						SceneManager.LoadScene (conditionToLoadAfterStimulation + " placebo");
-					else
-						SceneManager.LoadScene (conditionToLoadAfterStimulation);
-				}
-			}
-		} else {
-			Debug.Log ("this is going through");
+			if (currentCondition < ConditionDictionary.selectedOrder.Length)
+				SceneManager.LoadScene ("Inter");
+			else
+				SceneManager.LoadScene ("Goodbye");
+		} 
+
+		else {
+			//Debug.Log ("this is going through");
 			if (isPreQuestionnaire)
 				SceneManager.LoadScene ("Inter");
 			else
@@ -68,13 +55,5 @@ public class ConditionLoader : MonoBehaviour {
 
 	}
 			
-	IEnumerator AR_stopper() {
-			yield return new WaitForSecondsRealtime (2.5f);
-			Debug.Log ("THE SCENE LOAD IS BEING CALLED HERE!!");
-			if (BasicDataConfigurations.isPlacebo)
-				SceneManager.LoadScene (conditionToLoadAfterStimulation + " placebo");
-			else
-				SceneManager.LoadScene (conditionToLoadAfterStimulation);
-	}
 
 }
