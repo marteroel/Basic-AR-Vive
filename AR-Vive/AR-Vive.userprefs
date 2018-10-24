@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ConditionLoader.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs">
     <Files>
-      <File FileName="Assets\Scripts\SR_SceneManager.cs" Line="10" Column="9" />
-      <File FileName="Assets\Scripts\ConditionLoader.cs" Line="70" Column="4" />
-      <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="115" Column="3" />
+      <File FileName="Assets\Scripts\SR_SceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ConditionLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="37" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

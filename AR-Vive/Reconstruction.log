@@ -493,3 +493,15 @@
 
 [Reconstruction Engine] [2018-10-23 13:01:16] [LOG] Set DataSource:0
 [Reconstruction Engine] [2018-10-23 13:01:16] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-24 10:07:35] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-24 10:07:35] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-24 10:09:59] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-24 10:11:10] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-24 10:11:10] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-24 10:11:34] [LOG] ViveStaticReconstruction Destruction
+
+[Reconstruction Engine] [2018-10-24 10:11:56] [LOG] Set DataSource:0
+[Reconstruction Engine] [2018-10-24 10:11:56] [LOG] Set not to use sensor device
+[Reconstruction Engine] [2018-10-24 10:12:12] [LOG] ViveStaticReconstruction Destruction
+
