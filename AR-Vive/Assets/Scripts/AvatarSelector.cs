@@ -10,10 +10,15 @@ public class AvatarSelector : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		if (BasicDataConfigurations.gender == "Male")
-			malePre.SetActive (true);
-		else
-			femalePost.SetActive (true);
+		if (BasicDataConfigurations.gender != "") {
+
+			if (BasicDataConfigurations.gender == "Male")
+				malePre.SetActive (true);
+			else
+				femalePre.SetActive (true);
+
+		} else
+			femalePre.SetActive (true);
 	}
 	
 	// Update is called once per frame
