@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Goodbye.unity
     guid: d554c62776128664fb1d7f66afb581a8
+  - enabled: 1
+    path: Assets/Scenes/VR_setup.unity
+    guid: 57e310d0347cf5e47b1328643254e708
   m_configObjects: {}
