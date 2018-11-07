@@ -1,17 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AvatarSelector.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MoveCameraForMale.cs">
     <Files>
       <File FileName="Assets\Scripts\LoadCallibrator.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\ConditionLoader.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\VASLabeler.cs" Line="1" Column="1" />
       <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\CsvWrite.cs" Line="1" Column="1" />
-      <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\IntroQuestionManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CSVconditionWriter.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\SetHandTrackers.cs" Line="1" Column="1" />
-      <File FileName="Assets\Packages\Vive body tracking\Scripts\AssignTrackersToLimbs.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AvatarSelector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\AvatarSelector.cs" Line="15" Column="49" />
+      <File FileName="Assets\Scripts\MoveCameraForMale.cs" Line="15" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -79,8 +79,10 @@ namespace SimpleVAS {
 					currentItem = 0;
 					questionnaireToWrite = 0;
 					//change to post avatar here.
-					if (SceneManager.GetActiveScene ().name == "VR" && avatarSelector != null)
+					if (SceneManager.GetActiveScene ().name == "VR" && avatarSelector != null) {
+						Debug.Log ("is vr condition therefore should load second avatar");
 						avatarSelector.ChangeToPost ();
+					}
 					if (SceneManager.GetActiveScene ().name == "AR" && gloveSelector != null)
 						gloveSelector.AddGlove ();
 				}

@@ -1,0 +1,6 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+abcd,an,Male,Rigth handed,1,0,,Mood,0.6962506
+abcd,an,Male,Rigth handed,1,1,,Mood,0.362956
+abcd,an,Male,Rigth handed,1,2,,Mood,0.6636479
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+abcd,an,Male,Rigth handed,1,0,0,AR post,0.5031496

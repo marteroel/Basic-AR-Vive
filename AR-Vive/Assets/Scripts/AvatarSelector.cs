@@ -31,7 +31,10 @@ public class AvatarSelector : MonoBehaviour {
 			if (BasicDataConfigurations.gender == "Male") {
 				malePre.SetActive (false);
 				malePost.SetActive (true);
-			} else {
+			} 
+
+			else {
+				Debug.Log ("should load the avatar with glove");
 				femalePre.SetActive (false);
 				femalePost.SetActive (true);
 			}

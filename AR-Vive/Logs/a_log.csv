@@ -46,3 +46,22 @@ a,a,Female,Rigth handed,1,6,4,VR post placebo,0.3682083
 a,a,Female,Rigth handed,1,7,4,VR post placebo,0.7920081
 subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
 subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+a,a,Male,Rigth handed,1,0,,Mood,0.8447258
+a,a,Male,Rigth handed,1,1,,Mood,0.270109
+a,a,Male,Rigth handed,1,2,,Mood,0.6851116
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+a,a,Male,Rigth handed,1,0,,Mood,0.773374
+a,a,Male,Rigth handed,1,1,,Mood,0.3842992
+a,a,Male,Rigth handed,1,2,,Mood,0.6060824
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+a,a,Female,Rigth handed,1,0,,Mood,0.5025587
+a,a,Female,Rigth handed,1,1,,Mood,0.2744517
+a,a,Female,Rigth handed,1,2,,Mood,0.6787356
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+a,a,Female,Rigth handed,1,0,0,VR pre,0.4109353
+a,a,Female,Rigth handed,1,0,1,VR pre,0.847933
+a,a,Female,Rigth handed,1,0,2,VR pre,0.3415946
+a,a,Female,Rigth handed,1,0,0,VR post,0.2280439

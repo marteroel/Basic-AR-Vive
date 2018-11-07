@@ -1,0 +1,8 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+abc,abc,Female,Rigth handed,1,0,,Mood,0.5947155
+abc,abc,Female,Rigth handed,1,1,,Mood,0.4111501
+abc,abc,Female,Rigth handed,1,2,,Mood,0.7624527
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+abc,abc,Female,Rigth handed,1,0,0,VR pre,0.633801
+abc,abc,Female,Rigth handed,1,0,1,VR pre,0.4091802
+abc,abc,Female,Rigth handed,1,0,2,VR pre,0.6703439
