@@ -18,6 +18,7 @@ namespace SimpleVAS
 		// Use this for initialization
 		void Start () {
 			nextButton.interactable = false;
+			isPlacebo = true;
 		}
 		
 		// Update is called once per frame

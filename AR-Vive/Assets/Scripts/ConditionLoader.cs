@@ -21,7 +21,8 @@ public class ConditionLoader : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown ("return")) {
-			StartCoroutine (WaitToLoadScene ());
+			if (!isStimulationNotInstructions)
+				StartCoroutine (WaitToLoadScene ());
 			//LoadScene ();
 		}
 	}

@@ -6,3 +6,5 @@ subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,
 abc,abc,Female,Rigth handed,1,0,0,VR pre,0.633801
 abc,abc,Female,Rigth handed,1,0,1,VR pre,0.4091802
 abc,abc,Female,Rigth handed,1,0,2,VR pre,0.6703439
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
