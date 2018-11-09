@@ -65,7 +65,8 @@ namespace SimpleVAS {
 		}
 
 		public void ManageUI (){
-			
+			//Debug.Log ("the item number in managui is " + itemNumber);
+
 			if (UiObject.activeSelf == true) {
 				UiObject.SetActive (false);
 				CameraUI.SetActive (false);
@@ -79,12 +80,12 @@ namespace SimpleVAS {
 					currentItem = 0;
 					questionnaireToWrite = 0;
 					//change to post avatar here.
-					if (SceneManager.GetActiveScene ().name == "VR" && avatarSelector != null) {
+					/*if (SceneManager.GetActiveScene ().name == "VR" && avatarSelector != null) {
 						Debug.Log ("is vr condition therefore should load second avatar");
 						avatarSelector.ChangeToPost ();
 					}
 					if (SceneManager.GetActiveScene ().name == "AR" && gloveSelector != null)
-						gloveSelector.AddGlove ();
+						gloveSelector.AddGlove ();*/
 				}
 				
 				labeler.ChangeLabels (currentQuestionnaire);
@@ -114,7 +115,17 @@ namespace SimpleVAS {
 
 			currentItem ++;
 			itemNumber++;
+			//Debug.Log ("the current item is " + currentItem);
 
+			if (itemNumber == qNChangeCondition && !isPost) {
+				if (SceneManager.GetActiveScene ().name == "VR" && avatarSelector != null) {
+					Debug.Log ("is vr condition therefore should load second avatar");
+					avatarSelector.ChangeToPost ();
+				}
+				if (SceneManager.GetActiveScene ().name == "AR" && gloveSelector != null)
+					gloveSelector.AddGlove ();
+			}
+			
 			if (currentItem < questionList.Count) {
 				questionUI.text = questionList [currentItem];
 			}

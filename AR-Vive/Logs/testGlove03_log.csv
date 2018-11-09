@@ -1,0 +1,5 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+testGlove03,xx,Male,Right handed,1,0,,Mood,0.6231546
+testGlove03,xx,Male,Right handed,1,1,,Mood,0.3101041
+testGlove03,xx,Male,Right handed,1,2,,Mood,0.727021
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value

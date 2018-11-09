@@ -1,102 +1,83 @@
-na,na,na,na,,0,0,AR,0.5598565
-na,na,na,na,,0,1,AR,0.3410959
-na,na,na,na,,0,2,AR,0.8096189
-na,na,na,na,,0,3,AR,0.2591823
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,AR post,0.2233309
-na,na,na,na,,0,1,AR post,0.6362016
-na,na,na,na,,0,2,AR post,0.1128701
-na,na,na,na,,0,3,AR post,0.6200767
-na,na,na,na,,0,4,AR post,0.1476869
-na,na,na,na,,1,4,AR post,0.2570972
-na,na,na,na,,2,4,AR post,0.6777699
-na,na,na,na,,3,4,AR post,0.2301524
-na,na,na,na,,4,4,AR post,0.7999481
-na,na,na,na,,5,4,AR post,0.1961237
-na,na,na,na,,6,4,AR post,0.5619444
-na,na,na,na,,7,4,AR post,0.3117413
-na,na,na,na,,0,0,AR,0.4770857
-na,na,na,na,,0,1,AR,0.7304569
-na,na,na,na,,0,2,AR,0.3555274
-na,na,na,na,,0,3,AR,0.6119733
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,AR post,0.6145779
-na,na,na,na,,0,1,AR post,0.3430759
-na,na,na,na,,0,2,AR post,0.6237578
-na,na,na,na,,0,3,AR post,0.3287137
-na,na,na,na,,0,4,AR post,0.3968357
-na,na,na,na,,1,4,AR post,0.3737196
-na,na,na,na,,2,4,AR post,0.3900331
-na,na,na,na,,0,0,AR,0.613178
-na,na,na,na,,0,1,AR,0.3879481
-na,na,na,na,,0,2,AR,0.3957607
-na,na,na,na,,0,3,AR,0.5998735
-na,na,na,na,,0,4,AR,0.2718046
-na,na,na,na,,1,4,AR,0.2733289
-na,na,na,na,,0,0,AR,0.660427
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,VR,0.5121097
-na,na,na,na,,0,1,VR,0.2884047
-na,na,na,na,,0,2,VR,0.6360008
-na,na,na,na,,0,3,VR,0.2894372
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,AR,0.5394402
-na,na,na,na,,0,1,AR,0.7306392
-na,na,na,na,,0,2,AR,0.3947709
-na,na,na,na,,0,3,AR,0.7260908
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,AR,0.6015108
-na,na,na,na,,0,1,AR,0.1418363
-na,na,na,na,,0,2,AR,0.7004207
-na,na,na,na,,0,3,AR,0.3543845
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,AR,0.5764307
-na,na,na,na,,0,1,AR,0.2927515
-na,na,na,na,,0,2,AR,0.7041438
-na,na,na,na,,0,3,AR,0.6597912
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,AR,0.5771061
-na,na,na,na,,0,1,AR,0.3803639
-na,na,na,na,,0,2,AR,0.711617
-na,na,na,na,,0,3,AR,0.6224205
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,AR,0.6108234
-na,na,na,na,,0,1,AR,0.2502069
-na,na,na,na,,0,2,AR,0.7285025
-na,na,na,na,,0,3,AR,0.314235
-subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
-na,na,na,na,,0,0,AR,0.4354279
-na,na,na,na,,0,0,AR,0.5840134
-na,na,na,na,,0,1,AR,0.3860343
-na,na,na,na,,0,0,PR,0.6007477
-na,na,na,na,,0,,,0.4865824
-na,na,na,na,,0,,,0.232553
-na,na,na,na,,0,,,0.8367372
-na,na,na,na,,0,0,PR pre,0.5024672
-na,na,na,na,,0,1,PR pre,0.5385315
-na,na,na,na,,0,2,PR pre,0.4181156
-na,na,na,na,,0,3,PR pre,0.7096959
-na,na,na,na,,0,4,PR pre,0.4172098
-na,na,na,na,,0,5,PR pre,0.7141761
-na,na,na,na,,0,0,PR pre,0.51855
-na,na,na,na,,0,1,PR pre,0.3572743
-na,na,na,na,,0,2,PR pre,0.6205626
-na,na,na,na,,0,3,PR pre,0.3989769
-na,na,na,na,,0,4,PR pre,0.4122075
-na,na,na,na,,0,0,PR pre,0.6062268
-na,na,na,na,,0,0,PR pre,0.4709774
-na,na,na,na,,0,1,PR pre,0.77839
-na,na,na,na,,0,2,PR pre,0.335765
-na,na,na,na,,0,0,PR post,0.6753893
-na,na,na,na,,0,0,VR pre,0.4425891
-na,na,na,na,,0,1,VR pre,0.1711347
-na,na,na,na,,0,0,VR pre,0.4540812
-na,na,na,na,,0,1,VR pre,0.7242594
-na,na,na,na,,0,2,VR pre,0.2090599
-na,na,na,na,,0,0,VR post,0.7562364
-na,na,na,na,,0,1,VR post,0.1906518
-na,na,na,na,,0,2,VR post,0.4412929
-na,na,na,na,,0,3,VR post,0.7558886
-na,na,na,na,,0,4,VR post,0.1655374
-na,na,na,na,,0,5,VR post,0.903087
-na,na,na,na,,1,5,VR post,0.2306772
+na,na,na,na,,0,0,AR post,0.5820842
+na,na,na,na,,0,1,AR post,0.2955187
+na,na,na,na,,0,2,AR post,0.2001889
+na,na,na,na,,0,3,AR post,0.3800673
+na,na,na,na,,0,4,AR post,0.3018931
+na,na,na,na,,0,5,AR post,0.4167232
+na,na,na,na,,0,6,AR post,0.1944378
+na,na,na,na,,0,7,AR post,0.127711
+na,na,na,na,,0,8,AR post,0.3257566
+na,na,na,na,,1,8,AR post,0.3097149
+na,na,na,na,,2,8,AR post,0.5576897
+na,na,na,na,,3,8,AR post,0.401346
+na,na,na,na,,4,8,AR post,0.6220013
+na,na,na,na,,5,8,AR post,0.3122028
+na,na,na,na,,6,8,AR post,0.7409464
+na,na,na,na,,7,8,AR post,0.3238167
+na,na,na,na,,0,0,VR pre,0.479949
+na,na,na,na,,0,1,VR pre,0.6398758
+na,na,na,na,,0,2,VR pre,0.3683397
+na,na,na,na,,0,0,VR post,0.7369452
+na,na,na,na,,0,0,AR pre,0.5173239
+na,na,na,na,,0,1,AR pre,0.2079519
+na,na,na,na,,0,2,AR pre,0.6203986
+na,na,na,na,,0,0,AR post,0.3566876
+na,na,na,na,,0,1,AR post,0.6499122
+na,na,na,na,,0,0,AR pre,0.6918147
+na,na,na,na,,0,1,AR pre,0.2859229
+na,na,na,na,,0,2,AR pre,0.7771199
+na,na,na,na,,0,0,AR post,0.2356097
+na,na,na,na,,0,1,AR post,0.7000351
+na,na,na,na,,0,2,AR post,0.3328636
+na,na,na,na,,0,3,AR post,0.7763917
+na,na,na,na,,0,4,AR post,0.3647135
+na,na,na,na,,0,0,AR pre,0.3793283
+na,na,na,na,,0,1,AR pre,0.884788
+na,na,na,na,,0,2,AR pre,0.4121209
+na,na,na,na,,0,0,VR pre,0.5697143
+na,na,na,na,,0,1,VR pre,0.6885436
+na,na,na,na,,0,2,VR pre,0.3082548
+na,na,na,na,,0,0,VR post,0.7672679
+na,na,na,na,,0,0,AR pre,0.6075038
+na,na,na,na,,0,0,AR pre,0.5630258
+na,na,na,na,,0,1,AR pre,0.1370841
+na,na,na,na,,0,2,AR pre,0.2005624
+na,na,na,na,,0,3,AR pre,0.7172655
+na,na,na,na,,0,4,AR pre,0.2781182
+na,na,na,na,,0,0,VR pre,0.6854416
+na,na,na,na,,0,1,VR pre,0.3989669
+na,na,na,na,,0,2,VR pre,0.3327304
+na,na,na,na,,0,0,VR pre,0.8080806
+na,na,na,na,,0,1,VR pre,0.3930929
+na,na,na,na,,0,2,VR pre,0.683744
+na,na,na,na,,0,0,VR post,0.3531903
+na,na,na,na,,0,0,VR pre,0.4724353
+na,na,na,na,,0,1,VR pre,0.3377167
+na,na,na,na,,0,2,VR pre,0.1816991
+na,na,na,na,,0,0,AR pre,0.6039093
+na,na,na,na,,0,1,AR pre,0.2900926
+na,na,na,na,,0,2,AR pre,0.7237524
+na,na,na,na,,0,3,AR pre,0.3798694
+na,na,na,na,,0,4,AR pre,0.7551132
+na,na,na,na,,0,0,,0.4100223
+na,na,na,na,,0,1,,0.804017
+na,na,na,na,,0,0,AR pre,0.4700938
+na,na,na,na,,0,1,AR pre,0.8811948
+na,na,na,na,,0,2,AR pre,0.3676473
+na,na,na,na,,0,0,AR pre,0.4122306
+na,na,na,na,,0,1,AR pre,0.6596832
+na,na,na,na,,0,2,AR pre,0.2331747
+na,na,na,na,,0,0,AR post,0.6584804
+na,na,na,na,,0,0,AR pre,0.4980077
+na,na,na,na,,0,0,AR pre,0.4170991
+na,na,na,na,,0,1,AR pre,0.6437306
+na,na,na,na,,0,2,AR pre,0.31799
+na,na,na,na,,0,0,AR post,0.7892197
+na,na,na,na,,0,0,AR pre,0.5581903
+na,na,na,na,,0,1,AR pre,0.8319141
+na,na,na,na,,0,2,AR pre,0.3252136
+na,na,na,na,,0,0,AR post,0.3552376
+na,na,na,na,,0,0,VR pre,0.4326904
+na,na,na,na,,0,1,VR pre,0.2472011
+na,na,na,na,,0,2,VR pre,0.757645
+na,na,na,na,,0,3,VR pre,0.2820903
