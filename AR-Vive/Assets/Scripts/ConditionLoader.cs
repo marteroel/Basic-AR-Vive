@@ -15,7 +15,7 @@ public class ConditionLoader : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		BasicDataConfigurations.isPlacebo = true;	
+		BasicDataConfigurations.isPlaceboDummy = true;	
 	}
 	
 	// Update is called once per frame

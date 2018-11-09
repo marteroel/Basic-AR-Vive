@@ -27,7 +27,7 @@ public class AvatarSelector : MonoBehaviour {
 	}
 
 	public void ChangeToPost(){
-		if (BasicDataConfigurations.isPlacebo) {
+		if (BasicDataConfigurations.isPlaceboDummy) {
 			if (BasicDataConfigurations.gender == "Male") {
 				malePre.SetActive (false);
 				malePost.SetActive (true);

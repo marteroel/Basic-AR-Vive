@@ -11,14 +11,14 @@ namespace SimpleVAS
 		public InputField nameField, ageField;
 		public Text genderField, handednessField;
 		public Button nextButton;
-		public Toggle placeboSwitch;
+		public Toggle placeboSwitchDummy, isPlaceboSwitchToWrite;
 		public static string ID, age, gender, handedness, conditionOrder, placebo;
-		public static bool isPlacebo;
+		public static bool isPlaceboDummy;
 
 		// Use this for initialization
 		void Start () {
 			nextButton.interactable = false;
-			isPlacebo = true;
+			isPlaceboDummy = true;
 		}
 		
 		// Update is called once per frame
@@ -38,9 +38,9 @@ namespace SimpleVAS
 		public void OnNextButton () {
 			gender = genderField.text;
 			handedness = handednessField.text;
-			isPlacebo = placeboSwitch.isOn;
+			isPlaceboDummy = placeboSwitchDummy.isOn;
 
-			if (isPlacebo)
+			if (isPlaceboSwitchToWrite)
 				placebo = "1";
 			else
 				placebo = "0";
