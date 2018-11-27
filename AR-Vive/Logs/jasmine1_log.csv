@@ -1,0 +1,4 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+jasmine1,65,Female,Right handed,1,0,,Mood,0.7685069
+jasmine1,65,Female,Right handed,1,1,,Mood,0.3261158
+jasmine1,65,Female,Right handed,1,2,,Mood,0.6250982

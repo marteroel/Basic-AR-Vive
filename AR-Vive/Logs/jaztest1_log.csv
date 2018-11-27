@@ -1,0 +1,22 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+jaztest1,12,Female,Right handed,1,0,,Mood,0.5600272
+jaztest1,12,Female,Right handed,1,1,,Mood,0.5920488
+jaztest1,12,Female,Right handed,1,2,,Mood,0.3300461
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+jaztest1,12,Female,Right handed,1,0,0,VR pre,0.3316047
+jaztest1,12,Female,Right handed,1,0,1,VR pre,0.224426
+jaztest1,12,Female,Right handed,1,0,2,VR pre,0.2051906
+jaztest1,12,Female,Right handed,1,0,3,VR pre,0.2426604
+jaztest1,12,Female,Right handed,1,0,0,VR post,0.5680459
+jaztest1,12,Female,Right handed,1,0,1,VR post,0.5771562
+jaztest1,12,Female,Right handed,1,0,2,VR post,0.9384077
+jaztest1,12,Female,Right handed,1,0,3,VR post,0.115459
+jaztest1,12,Female,Right handed,1,0,4,VR post,0.5834413
+jaztest1,12,Female,Right handed,1,1,4,VR post,0.9746853
+jaztest1,12,Female,Right handed,1,2,4,VR post,0.3518546
+jaztest1,12,Female,Right handed,1,3,4,VR post,0.6770846
+jaztest1,12,Female,Right handed,1,4,4,VR post,0.334096
+jaztest1,12,Female,Right handed,1,5,4,VR post,0.3943298
+jaztest1,12,Female,Right handed,1,6,4,VR post,0.3577416
+jaztest1,12,Female,Right handed,1,7,4,VR post,0.32303
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
