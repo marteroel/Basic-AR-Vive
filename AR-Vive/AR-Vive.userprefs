@@ -6,9 +6,9 @@
       <File FileName="Assets\Scripts\ConditionLoader.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\VASLabeler.cs" Line="1" Column="1" />
       <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\CsvWrite.cs" Line="1" Column="1" />
-      <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="127" Column="5" />
-      <File FileName="Assets\Scripts\AR_GloveSelector.cs" Line="9" Column="14" />
-      <File FileName="Assets\Scripts\CSVconditionWriter.cs" Line="16" Column="2" />
+      <File FileName="Assets\Packages\Simple VAS VR\SimpleVAS\Scripts\QuestionManager.cs" Line="126" Column="20" />
+      <File FileName="Assets\Scripts\AR_GloveSelector.cs" Line="9" Column="22" />
+      <File FileName="Assets\Scripts\CSVconditionWriter.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
