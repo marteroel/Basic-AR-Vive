@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/PR.unity
     guid: 2fd3c91940ad5bd42b6ceea83809f72b
   - enabled: 1
+    path: Assets/Scenes/Mood post.unity
+    guid: d64d54e4a3468d444959f3a525561580
+  - enabled: 1
     path: Assets/Scenes/Goodbye.unity
     guid: d554c62776128664fb1d7f66afb581a8
   - enabled: 1

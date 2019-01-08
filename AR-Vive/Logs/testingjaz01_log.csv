@@ -1,0 +1,71 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+testingjaz01,56,Female,Right handed,1,0,,Mood,0.5857175
+testingjaz01,56,Female,Right handed,1,1,,Mood,0.6893984
+testingjaz01,56,Female,Right handed,1,2,,Mood,0.3776213
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+testingjaz01,56,Female,Right handed,1,0,0,VR pre,0.4069673
+testingjaz01,56,Female,Right handed,1,0,1,VR pre,0.3996131
+testingjaz01,56,Female,Right handed,1,0,2,VR pre,0.3876992
+testingjaz01,56,Female,Right handed,1,0,3,VR pre,0.415838
+testingjaz01,56,Female,Right handed,1,0,4,VR pre,0.4430718
+testingjaz01,56,Female,Right handed,1,0,5,VR pre,0.3553032
+testingjaz01,56,Female,Right handed,1,0,6,VR pre,0.3330749
+testingjaz01,56,Female,Right handed,1,0,7,VR pre,0.2440849
+testingjaz01,56,Female,Right handed,1,0,0,VR post,0.421101
+testingjaz01,56,Female,Right handed,1,0,1,VR post,0.3868505
+testingjaz01,56,Female,Right handed,1,0,2,VR post,0.3366443
+testingjaz01,56,Female,Right handed,1,0,3,VR post,0.3908103
+testingjaz01,56,Female,Right handed,1,0,4,VR post,0.350026
+testingjaz01,56,Female,Right handed,1,0,5,VR post,0.3501927
+testingjaz01,56,Female,Right handed,1,0,6,VR post,0.3299845
+testingjaz01,56,Female,Right handed,1,0,7,VR post,0.3429271
+testingjaz01,56,Female,Right handed,1,0,8,VR post,0.274434
+testingjaz01,56,Female,Right handed,1,1,8,VR post,0.5589731
+testingjaz01,56,Female,Right handed,1,2,8,VR post,0.6549357
+testingjaz01,56,Female,Right handed,1,3,8,VR post,0.6497071
+testingjaz01,56,Female,Right handed,1,4,8,VR post,0.6838357
+testingjaz01,56,Female,Right handed,1,5,8,VR post,0.6618253
+testingjaz01,56,Female,Right handed,1,6,8,VR post,0.7182335
+testingjaz01,56,Female,Right handed,1,7,8,VR post,0.65588
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+testingjaz01,56,Female,Right handed,1,0,0,AR pre,0.2616151
+testingjaz01,56,Female,Right handed,1,0,1,AR pre,0.3462045
+testingjaz01,56,Female,Right handed,1,0,2,AR pre,0.3518569
+testingjaz01,56,Female,Right handed,1,0,3,AR pre,0.3935666
+testingjaz01,56,Female,Right handed,1,0,4,AR pre,0.3780603
+testingjaz01,56,Female,Right handed,1,0,5,AR pre,0.4005425
+testingjaz01,56,Female,Right handed,1,0,6,AR pre,0.3532957
+testingjaz01,56,Female,Right handed,1,0,7,AR pre,0.3570601
+testingjaz01,56,Female,Right handed,1,0,0,AR post,0.3915816
+testingjaz01,56,Female,Right handed,1,0,1,AR post,0.6736096
+testingjaz01,56,Female,Right handed,1,0,2,AR post,0.4035342
+testingjaz01,56,Female,Right handed,1,0,3,AR post,0.7135735
+testingjaz01,56,Female,Right handed,1,0,4,AR post,0.6228896
+testingjaz01,56,Female,Right handed,1,0,5,AR post,0.6578931
+testingjaz01,56,Female,Right handed,1,0,6,AR post,0.5958583
+testingjaz01,56,Female,Right handed,1,0,7,AR post,0.6307691
+testingjaz01,56,Female,Right handed,1,0,8,AR post,0.3450659
+testingjaz01,56,Female,Right handed,1,1,8,AR post,0.6596528
+testingjaz01,56,Female,Right handed,1,2,8,AR post,0.4114702
+testingjaz01,56,Female,Right handed,1,3,8,AR post,0.5799952
+testingjaz01,56,Female,Right handed,1,4,8,AR post,0.626891
+testingjaz01,56,Female,Right handed,1,5,8,AR post,0.4239337
+testingjaz01,56,Female,Right handed,1,6,8,AR post,0.5374997
+testingjaz01,56,Female,Right handed,1,7,8,AR post,0.4146124
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+testingjaz01,56,Female,Right handed,1,0,0,PR pre,0.4290708
+testingjaz01,56,Female,Right handed,1,0,1,PR pre,0.6705049
+testingjaz01,56,Female,Right handed,1,0,2,PR pre,0.2547573
+testingjaz01,56,Female,Right handed,1,0,0,PR post,0.6340334
+testingjaz01,56,Female,Right handed,1,0,1,PR post,0.2115418
+testingjaz01,56,Female,Right handed,1,0,2,PR post,0.6308816
+testingjaz01,56,Female,Right handed,1,0,3,PR post,0.3881947
+testingjaz01,56,Female,Right handed,1,0,4,PR post,0.3822509
+testingjaz01,56,Female,Right handed,1,0,5,PR post,0.5991768
+testingjaz01,56,Female,Right handed,1,0,6,PR post,0.3733
+testingjaz01,56,Female,Right handed,1,0,7,PR post,0.5861059
+testingjaz01,56,Female,Right handed,1,0,8,PR post,0.3021117
+testingjaz01,56,Female,Right handed,1,0,9,PR post,0.4047478
+testingjaz01,56,Female,Right handed,1,0,10,PR post,0.640601
+testingjaz01,56,Female,Right handed,1,0,11,PR post,0.2869791
+testingjaz01,56,Female,Right handed,1,0,12,PR post,0.592095

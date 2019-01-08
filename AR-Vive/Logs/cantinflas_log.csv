@@ -1,0 +1,6 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+cantinflas,22,Female,Right handed,1,0,,Mood,0.5015965
+cantinflas,22,Female,Right handed,1,1,,Mood,0.617938
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+cantinflas,22,Female,Right handed,1,0,,Mood,0.6690844
+cantinflas,22,Female,Right handed,1,1,,Mood,0.9545563

@@ -7,7 +7,7 @@ using Vive.Plugin.SR;
 
 public class ConditionLoader : MonoBehaviour {
 
-	public bool isStimulationNotInstructions, isPostCondition, isPreQuestionnaire;
+	public bool isStimulationNotInstructions, isPostCondition, isPreQuestionnaire, isEnd;
 	public static int currentCondition;
 	public string conditionToLoadAfterStimulation;
 
@@ -42,13 +42,15 @@ public class ConditionLoader : MonoBehaviour {
 			if (currentCondition < ConditionDictionary.selectedOrder.Length)
 				SceneManager.LoadScene ("Inter");
 			else
-				SceneManager.LoadScene ("Goodbye");
+				SceneManager.LoadScene ("Mood post");
 		} 
 
 		else {
 			//Debug.Log ("this is going through");
 			if (isPreQuestionnaire)
 				SceneManager.LoadScene ("Inter");
+			if (isEnd)
+				SceneManager.LoadScene ("Goodbye");
 			else
 				SceneManager.LoadScene (ConditionDictionary.selectedOrder [currentCondition]);
 			}

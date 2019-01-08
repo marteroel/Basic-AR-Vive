@@ -1,0 +1,5 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+65,46,Female,Right handed,1,0,,Mood,0.3354971
+65,46,Female,Right handed,1,1,,Mood,0.1395748
+65,46,Female,Right handed,1,2,,Mood,0.1567743
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
