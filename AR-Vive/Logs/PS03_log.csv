@@ -1,0 +1,47 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS03,26,Female,Right handed,1,0,,Mood,0.7809901
+PS03,26,Female,Right handed,1,1,,Mood,0.7804303
+PS03,26,Female,Right handed,1,2,,Mood,0.5149491
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS03,26,Female,Right handed,1,0,0,VR pre,0.1523402
+PS03,26,Female,Right handed,1,0,1,VR pre,0.522675
+PS03,26,Female,Right handed,1,0,2,VR pre,0.08740845
+PS03,26,Female,Right handed,1,0,3,VR pre,0.1423776
+PS03,26,Female,Right handed,1,0,4,VR pre,0.3828426
+PS03,26,Female,Right handed,1,0,5,VR pre,0.6484526
+PS03,26,Female,Right handed,1,0,6,VR pre,0.4358807
+PS03,26,Female,Right handed,1,0,7,VR pre,0.546041
+PS03,26,Female,Right handed,1,0,0,VR post,0.407693
+PS03,26,Female,Right handed,1,0,1,VR post,0.3513827
+PS03,26,Female,Right handed,1,0,2,VR post,0.1072931
+PS03,26,Female,Right handed,1,0,3,VR post,0.05264655
+PS03,26,Female,Right handed,1,0,4,VR post,0.5272989
+PS03,26,Female,Right handed,1,0,5,VR post,0.2629333
+PS03,26,Female,Right handed,1,0,6,VR post,0.4238142
+PS03,26,Female,Right handed,1,0,7,VR post,0.1876531
+PS03,26,Female,Right handed,1,0,8,VR post,0.368594
+PS03,26,Female,Right handed,1,1,8,VR post,0.869292
+PS03,26,Female,Right handed,1,2,8,VR post,0.8660791
+PS03,26,Female,Right handed,1,3,8,VR post,0.9377335
+PS03,26,Female,Right handed,1,4,8,VR post,0.2365094
+PS03,26,Female,Right handed,1,5,8,VR post,0.8422328
+PS03,26,Female,Right handed,1,6,8,VR post,0.7047753
+PS03,26,Female,Right handed,1,7,8,VR post,0.1967954
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS03,26,Female,Right handed,1,0,0,PR pre,0.02875076
+PS03,26,Female,Right handed,1,0,1,PR pre,0.02674437
+PS03,26,Female,Right handed,1,0,2,PR pre,0.1205025
+PS03,26,Female,Right handed,1,0,0,PR post,0.2586083
+PS03,26,Female,Right handed,1,0,1,PR post,0.7573591
+PS03,26,Female,Right handed,1,0,2,PR post,0.7466161
+PS03,26,Female,Right handed,1,0,3,PR post,0.670639
+PS03,26,Female,Right handed,1,0,4,PR post,0.6283173
+PS03,26,Female,Right handed,1,0,5,PR post,0.252959
+PS03,26,Female,Right handed,1,0,6,PR post,0.1099426
+PS03,26,Female,Right handed,1,0,7,PR post,0.08519565
+PS03,26,Female,Right handed,1,0,8,PR post,0.228263
+PS03,26,Female,Right handed,1,0,9,PR post,0.2156237
+PS03,26,Female,Right handed,1,0,10,PR post,0.3095731
+PS03,26,Female,Right handed,1,0,11,PR post,0.5397914
+PS03,26,Female,Right handed,1,0,12,PR post,0.5427504
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
