@@ -45,3 +45,30 @@ PS03,26,Female,Right handed,1,0,10,PR post,0.3095731
 PS03,26,Female,Right handed,1,0,11,PR post,0.5397914
 PS03,26,Female,Right handed,1,0,12,PR post,0.5427504
 subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+,,,,,,0,AR pre,0.3122537
+,,,,,,1,AR pre,0.3068145
+,,,,,,2,AR pre,0.5552368
+,,,,,,3,AR pre,0.5175195
+,,,,,,4,AR pre,0.6960415
+,,,,,,5,AR pre,0.2633971
+,,,,,,6,AR pre,0.6310794
+,,,,,,7,AR pre,0.5165287
+,,,,,,0,AR post,0.09480973
+,,,,,,1,AR post,0.3472906
+,,,,,,2,AR post,0.1081451
+,,,,,,3,AR post,0.1515107
+,,,,,,4,AR post,0.1657893
+,,,,,,5,AR post,0.1448299
+,,,,,,6,AR post,0.1025758
+,,,,,,7,AR post,0.09004441
+,,,,,,8,AR post,0.7971916
+,,,,,,8,AR post,0.8745343
+,,,,,,8,AR post,0.7999697
+,,,,,,8,AR post,0.9241055
+,,,,,,8,AR post,0.102809
+,,,,,,8,AR post,0.8861701
+,,,,,,8,AR post,0.8046373
+,,,,,,8,AR post,0.1624635
+,,,,,,,Mood,0.507342
+,,,,,,,Mood,0.4765832
+,,,,,,,Mood,0.7164252

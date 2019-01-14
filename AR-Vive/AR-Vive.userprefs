@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Packages\ViveSR\Scripts\ViveSR_DualCameraRig.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CsvReadMultiple.cs">
     <Files>
       <File FileName="Assets\Scripts\LoadCallibrator.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\ConditionLoader.cs" Line="1" Column="1" />
@@ -11,6 +11,7 @@
       <File FileName="Assets\Scripts\CSVconditionWriter.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\IntroQuestionManager.cs" Line="1" Column="1" />
       <File FileName="Assets\Packages\ViveSR\Scripts\ViveSR_DualCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CsvReadMultiple.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

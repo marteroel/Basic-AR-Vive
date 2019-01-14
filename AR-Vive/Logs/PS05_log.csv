@@ -1,0 +1,81 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS05,31,Female,Right handed,1,0,,Mood,0.6953142
+PS05,31,Female,Right handed,1,1,,Mood,0.3606832
+PS05,31,Female,Right handed,1,2,,Mood,0.5013614
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS05,31,Male,Right handed,1,0,,Mood,0.6367801
+PS05,31,Male,Right handed,1,1,,Mood,0.5906205
+PS05,31,Male,Right handed,1,2,,Mood,0.3414042
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS05,31,Male,Right handed,1,0,0,AR pre,0.2459051
+PS05,31,Male,Right handed,1,0,1,AR pre,0.06218458
+PS05,31,Male,Right handed,1,0,2,AR pre,0.2309468
+PS05,31,Male,Right handed,1,0,3,AR pre,0.1649699
+PS05,31,Male,Right handed,1,0,4,AR pre,0.1755521
+PS05,31,Male,Right handed,1,0,5,AR pre,0.07307559
+PS05,31,Male,Right handed,1,0,6,AR pre,0.2424197
+PS05,31,Male,Right handed,1,0,7,AR pre,0.1404824
+PS05,31,Male,Right handed,1,0,0,AR post,0.03263465
+PS05,31,Male,Right handed,1,0,1,AR post,0.01111418
+PS05,31,Male,Right handed,1,0,2,AR post,0.2055765
+PS05,31,Male,Right handed,1,0,3,AR post,0.1892139
+PS05,31,Male,Right handed,1,0,4,AR post,0.2759073
+PS05,31,Male,Right handed,1,0,5,AR post,0.2622591
+PS05,31,Male,Right handed,1,0,6,AR post,0.3320448
+PS05,31,Male,Right handed,1,0,7,AR post,0.2991249
+PS05,31,Male,Right handed,1,0,8,AR post,0.9925354
+PS05,31,Male,Right handed,1,1,8,AR post,0.9674672
+PS05,31,Male,Right handed,1,2,8,AR post,0.997338
+PS05,31,Male,Right handed,1,3,8,AR post,0.5002088
+PS05,31,Male,Right handed,1,4,8,AR post,0.1049626
+PS05,31,Male,Right handed,1,5,8,AR post,0.9682118
+PS05,31,Male,Right handed,1,6,8,AR post,0.3614931
+PS05,31,Male,Right handed,1,7,8,AR post,0.4942931
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS05,31,Male,Right handed,1,0,0,PR pre,0.0426189
+PS05,31,Male,Right handed,1,0,1,PR pre,0.01007801
+PS05,31,Male,Right handed,1,0,2,PR pre,0.06625538
+PS05,31,Male,Right handed,1,0,0,PR post,0.04644499
+PS05,31,Male,Right handed,1,0,1,PR post,0.1765023
+PS05,31,Male,Right handed,1,0,2,PR post,0.2193441
+PS05,31,Male,Right handed,1,0,3,PR post,0.1522985
+PS05,31,Male,Right handed,1,0,4,PR post,0.1822492
+PS05,31,Male,Right handed,1,0,5,PR post,0.02747069
+PS05,31,Male,Right handed,1,0,6,PR post,0.02754942
+PS05,31,Male,Right handed,1,0,7,PR post,0.07026759
+PS05,31,Male,Right handed,1,0,8,PR post,0.04289985
+PS05,31,Male,Right handed,1,0,9,PR post,0.1550917
+PS05,31,Male,Right handed,1,0,10,PR post,0.1698195
+PS05,31,Male,Right handed,1,0,11,PR post,0.1571394
+PS05,31,Male,Right handed,1,0,12,PR post,0.1679189
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS05,31,Male,Right handed,1,0,0,VR pre,0.1804882
+PS05,31,Male,Right handed,1,0,1,VR pre,0.2475408
+PS05,31,Male,Right handed,1,0,2,VR pre,0.1243395
+PS05,31,Male,Right handed,1,0,3,VR pre,0.08154598
+PS05,31,Male,Right handed,1,0,4,VR pre,0.1656283
+PS05,31,Male,Right handed,1,0,5,VR pre,0.1807324
+PS05,31,Male,Right handed,1,0,6,VR pre,0.1221105
+PS05,31,Male,Right handed,1,0,7,VR pre,0.1060977
+PS05,31,Male,Right handed,1,0,0,VR post,0.1268969
+PS05,31,Male,Right handed,1,0,1,VR post,0.07386642
+PS05,31,Male,Right handed,1,0,2,VR post,0.1090657
+PS05,31,Male,Right handed,1,0,3,VR post,0.05559764
+PS05,31,Male,Right handed,1,0,4,VR post,0.2244287
+PS05,31,Male,Right handed,1,0,5,VR post,0.1421283
+PS05,31,Male,Right handed,1,0,6,VR post,0.2138402
+PS05,31,Male,Right handed,1,0,7,VR post,0.2232136
+PS05,31,Male,Right handed,1,0,8,VR post,0.6443012
+PS05,31,Male,Right handed,1,1,8,VR post,0.3976786
+PS05,31,Male,Right handed,1,2,8,VR post,0.7179344
+PS05,31,Male,Right handed,1,3,8,VR post,0.9215286
+PS05,31,Male,Right handed,1,4,8,VR post,0.3823038
+PS05,31,Male,Right handed,1,5,8,VR post,0.7030783
+PS05,31,Male,Right handed,1,6,8,VR post,0.5221663
+PS05,31,Male,Right handed,1,7,8,VR post,0.4938708
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS05,31,Male,Right handed,1,0,8,Mood,0.6706151
+PS05,31,Male,Right handed,1,1,8,Mood,0.337646
+PS05,31,Male,Right handed,1,2,8,Mood,0.2146321

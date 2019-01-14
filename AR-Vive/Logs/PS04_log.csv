@@ -1,0 +1,73 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS04,28,Male,Right handed,1,0,,Mood,0.9126394
+PS04,28,Male,Right handed,1,1,,Mood,0.7570539
+PS04,28,Male,Right handed,1,2,,Mood,0.6643544
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS04,28,Male,Right handed,1,0,0,VR pre,0.1729606
+PS04,28,Male,Right handed,1,0,1,VR pre,0.06948023
+PS04,28,Male,Right handed,1,0,2,VR pre,0.007772501
+PS04,28,Male,Right handed,1,0,3,VR pre,0.003500374
+PS04,28,Male,Right handed,1,0,4,VR pre,0.3656306
+PS04,28,Male,Right handed,1,0,5,VR pre,0.6276755
+PS04,28,Male,Right handed,1,0,6,VR pre,0.2378999
+PS04,28,Male,Right handed,1,0,7,VR pre,0.1330785
+PS04,28,Male,Right handed,1,0,0,VR post,0.5358781
+PS04,28,Male,Right handed,1,0,1,VR post,0.5748959
+PS04,28,Male,Right handed,1,0,2,VR post,0.3537905
+PS04,28,Male,Right handed,1,0,3,VR post,0.3680114
+PS04,28,Male,Right handed,1,0,4,VR post,0.503591
+PS04,28,Male,Right handed,1,0,5,VR post,0.632634
+PS04,28,Male,Right handed,1,0,6,VR post,0.1929342
+PS04,28,Male,Right handed,1,0,7,VR post,0.2780975
+PS04,28,Male,Right handed,1,0,8,VR post,0.04172574
+PS04,28,Male,Right handed,1,1,8,VR post,0.1666652
+PS04,28,Male,Right handed,1,2,8,VR post,0.4351943
+PS04,28,Male,Right handed,1,3,8,VR post,0.8898419
+PS04,28,Male,Right handed,1,4,8,VR post,0.7947943
+PS04,28,Male,Right handed,1,5,8,VR post,0.1841311
+PS04,28,Male,Right handed,1,6,8,VR post,0.7273648
+PS04,28,Male,Right handed,1,7,8,VR post,0.2683094
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+,,,,,,0,PR pre,0.7260766
+,,,,,,1,PR pre,0.7323281
+,,,,,,2,PR pre,0.673551
+,,,,,,0,PR post,0.581961
+,,,,,,1,PR post,0.7716302
+,,,,,,2,PR post,0.7874507
+,,,,,,3,PR post,0.5837159
+,,,,,,4,PR post,0.6198859
+,,,,,,5,PR post,0.3729194
+,,,,,,6,PR post,0.2875313
+,,,,,,7,PR post,0.4439543
+,,,,,,8,PR post,0.4582742
+,,,,,,9,PR post,0.5680066
+,,,,,,10,PR post,0.6222998
+,,,,,,11,PR post,0.4603166
+,,,,,,12,PR post,0.380403
+,,,,,,0,AR pre,0.8385997
+,,,,,,1,AR pre,0.8364612
+,,,,,,2,AR pre,0.6889149
+,,,,,,3,AR pre,0.6825342
+,,,,,,4,AR pre,0.7495059
+,,,,,,5,AR pre,0.8604665
+,,,,,,6,AR pre,0.7177215
+,,,,,,7,AR pre,0.6877724
+,,,,,,0,AR post,0.3139592
+,,,,,,1,AR post,0.3286771
+,,,,,,2,AR post,0.4325601
+,,,,,,3,AR post,0.4337766
+,,,,,,4,AR post,0.09090953
+,,,,,,5,AR post,0.06391502
+,,,,,,6,AR post,0.5147632
+,,,,,,7,AR post,0.5269175
+,,,,,,8,AR post,0.7121335
+,,,,,,8,AR post,0.7059004
+,,,,,,8,AR post,0.8830051
+,,,,,,8,AR post,0.8781983
+,,,,,,8,AR post,0.03549295
+,,,,,,8,AR post,0.9436828
+,,,,,,8,AR post,0.6236596
+,,,,,,8,AR post,0.3700921
+,,,,,,,Mood,0.7975917
+,,,,,,,Mood,0.6598625
+,,,,,,,Mood,0.7114435

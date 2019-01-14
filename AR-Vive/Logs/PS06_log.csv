@@ -1,0 +1,68 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS06,36,Male,Right handed,2,0,,Mood,0.344382
+PS06,36,Male,Right handed,2,1,,Mood,0.312791
+PS06,36,Male,Right handed,2,2,,Mood,0.5957016
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS06,36,Male,Right handed,2,0,0,PR pre,0.4944662
+PS06,36,Male,Right handed,2,0,1,PR pre,0.4103824
+PS06,36,Male,Right handed,2,0,2,PR pre,0.4874051
+PS06,36,Male,Right handed,2,0,0,PR post,0.429611
+PS06,36,Male,Right handed,2,0,1,PR post,0.6661705
+PS06,36,Male,Right handed,2,0,2,PR post,0.6486488
+PS06,36,Male,Right handed,2,0,3,PR post,0.7557842
+PS06,36,Male,Right handed,2,0,4,PR post,0.7601042
+,,,,,,,PR post,0.5647881
+,,,,,,,PR post,0.5774197
+,,,,,,,PR post,0.6055247
+,,,,,,,PR post,0.6031438
+,,,,,,,PR post,0.8291641
+,,,,,,,PR post,0.8153147
+,,,,,,,PR post,0.830906
+,,,,,,,PR post,0.8074197
+,,,,,,,AR pre,0.8232316
+,,,,,,,AR pre,0.8388009
+,,,,,,,AR pre,0.4128132
+,,,,,,,AR pre,0.3629062
+,,,,,,,AR pre,0.4331951
+,,,,,,,AR pre,0.4376494
+,,,,,,,AR pre,0.6696601
+,,,,,,,AR pre,0.6608866
+,,,,,,,AR post,0.4884247
+,,,,,,,AR post,0.498904
+,,,,,,,AR post,0.4392169
+,,,,,,,AR post,0.444084
+,,,,,,,AR post,0.7114164
+,,,,,,,AR post,0.739361
+,,,,,,,AR post,0.8383973
+,,,,,,,AR post,0.8438303
+,,,,,,,AR post,0.3616995
+,,,,,,,AR post,0.6302881
+,,,,,,,AR post,0.5038948
+,,,,,,,AR post,0.3035035
+,,,,,,,AR post,0.340836
+,,,,,,,AR post,0.5883573
+,,,,,,,VR pre,0.515459
+,,,,,,,VR pre,0.493776
+,,,,,,,VR pre,0.4580464
+,,,,,,,VR pre,0.4320454
+,,,,,,,VR pre,0.8350503
+,,,,,,,VR pre,0.8288601
+,,,,,,,VR pre,0.781304
+,,,,,,,VR pre,0.8391173
+,,,,,,,VR post,0.5626518
+,,,,,,,VR post,0.549662
+,,,,,,,VR post,0.4794071
+,,,,,,,VR post,0.4705411
+,,,,,,,VR post,0.8596562
+,,,,,,,VR post,0.8679729
+,,,,,,,VR post,0.8745205
+,,,,,,,VR post,0.901084
+,,,,,,,VR post,0.3919744
+,,,,,,,VR post,0.3828291
+,,,,,,,VR post,0.3633521
+,,,,,,,VR post,0.8134646
+,,,,,,,VR post,0.189372
+,,,,,,,VR post,0.2817649
+,,,,,,,Mood,0.334728
+,,,,,,,Mood,0.3351626
+,,,,,,,Mood,0.6718889

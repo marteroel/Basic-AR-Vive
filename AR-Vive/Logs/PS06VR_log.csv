@@ -1,0 +1,6 @@
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
+PS06VR,36,Male,Right handed,1,0,,Mood,0.01085811
+PS06VR,36,Male,Right handed,1,1,,Mood,0.01819783
+PS06VR,36,Male,Right handed,1,2,,Mood,0.01613594
+subject ID,age,gender,handedness,placebo,question ID,questionnaire ID,condition,value
