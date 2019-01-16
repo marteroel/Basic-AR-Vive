@@ -25004,3 +25004,593 @@
 [Vive SRWorks] [2019-01-12 17:39:44] [LOG] ViveSR_Stop() end
 [Vive SRWorks] [2019-01-12 17:58:31] [LOG] UnitySetGraphicsDevice:: D3D11
 [Vive SRWorks] [2019-01-12 17:58:32] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] CPU GetMemory Total : 16194.000000
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] CPU GetMemory InUse : 5515.000000
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] GPU : GeForce GTX 1070
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] GPU driver : 39125
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] GPU memory usage : 1958.683594
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] GPU memory loading: 11
+[Vive SRWorks] [2019-01-14 10:49:23] [LOG] ViveSR_CreateModule() start
+[JSON] [2019-01-14 10:49:23] [LOG] found steam install path
+[JSON] [2019-01-14 10:49:23] [LOG] using device : LHR-46303FE2
+[JSON] [2019-01-14 10:49:23] [LOG] using system : lighthouse
+[JSON] [2019-01-14 10:49:23] [LOG] found device config file : C:\Program Files (x86)\Steam\config\lighthouse\LHR-46303FE2\config.json
+[JSON] [2019-01-14 10:49:23] [LOG] Cali_V2D_00000
+[JSON] [2019-01-14 10:49:24] [LOG] MIE_GCP_00000
+[JSON] [2019-01-14 10:49:24] [LOG] found steam install path
+[JSON] [2019-01-14 10:49:24] [LOG] using device : LHR-46303FE2
+[JSON] [2019-01-14 10:49:24] [LOG] using system : lighthouse
+[JSON] [2019-01-14 10:49:25] [LOG] found device config file : C:\Program Files (x86)\Steam\config\lighthouse\LHR-46303FE2\config.json
+[JSON] [2019-01-14 10:49:25] [LOG] Cali_V2D_00000
+[JSON] [2019-01-14 10:49:25] [LOG] MIE_GCP_00000
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] SeeThroughModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] CM_MT1_MID0_00000
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] CM_MT4_MID2_00000
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] ReconsModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] CM_MT5_MID4_00000
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] SM0ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] SM0ViveSR_StartModule() check pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:25] [LOG] initialization mode 2-2
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:25] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:25] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:25] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:25] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:25] [LOG] initialization mode end2-2
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] SM0ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 10:49:25] [LOG] SM0ViveSR_StartModule() initial pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:28] [LOG] TurnOn
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:28] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:28] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:28] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:28] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:28] [LOG] TurnOn end
+[Vive SRWorks] [2019-01-14 10:49:28] [LOG] SM0ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 10:49:28] [LOG] SM0_00000
+[Vive SRWorks] [2019-01-14 10:49:28] [LOG] SM0ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 10:49:28] [LOG] SM2ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 10:49:28] [LOG] SM2ViveSR_StartModule() check pass
+[ENGINE_DEPTH_2] [2019-01-14 10:49:28] [LOG] init_S
+[Vive SRWorks] [2019-01-14 10:49:29] [LOG] SM2ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 10:49:29] [LOG] SM2ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 10:49:29] [LOG] SM2ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 10:49:29] [LOG] SM2_00000
+[Vive SRWorks] [2019-01-14 10:49:29] [LOG] SM2ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 10:49:29] [LOG] SM4ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 10:49:29] [LOG] SM4ViveSR_StartModule() check pass
+[Vive SRWorks] [2019-01-14 10:49:30] [LOG] SM4ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 10:49:30] [LOG] SM4ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 10:49:30] [LOG] SM4ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 10:49:30] [LOG] SM4_00000
+[Vive SRWorks] [2019-01-14 10:49:30] [LOG] SM4ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 10:49:30] [LOG] ViveSR_ModuleLink() start
+[Vive SRWorks] [2019-01-14 10:49:30] [LOG] LM2-4_MODE1_00000
+[Vive SRWorks] [2019-01-14 10:49:30] [LOG] ViveSR_ModuleLink() end
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-0
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:35] [LOG] TurnOff
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:35] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:35] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:35] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:35] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:35] [LOG] TurnOff end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:35] [LOG] ~Undistortion table
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 10:49:35] [LOG] ~Undistortion table
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-0_end
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-1
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-1_end
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-2
+[ENGINE_DEPTH_2] [2019-01-14 10:49:35] [LOG] release_S
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-2_end
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-3
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-3_end
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-4
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-4_end
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-5
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase2-5_end
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2019-01-14 10:49:35] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] CPU GetMemory Total : 16194.000000
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] CPU GetMemory InUse : 5813.000000
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] GPU : GeForce GTX 1070
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] GPU driver : 39125
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] GPU memory usage : 2052.929688
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] GPU memory loading: 12
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] SeeThroughModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] CM_MT1_MID0_00000
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] CM_MT4_MID2_00000
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] ReconsModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] CM_MT5_MID4_00000
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] SM0ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] SM0ViveSR_StartModule() check pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:55] [LOG] initialization mode 2-2
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:55] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:55] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:55] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:55] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:55] [LOG] initialization mode end2-2
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] SM0ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 11:08:55] [LOG] SM0ViveSR_StartModule() initial pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:58] [LOG] TurnOn
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:58] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:58] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:58] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:58] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:08:58] [LOG] TurnOn end
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM0ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM0_00000
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM0ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM2ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM2ViveSR_StartModule() check pass
+[ENGINE_DEPTH_2] [2019-01-14 11:08:58] [LOG] init_S
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM2ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM2ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM2ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM2_00000
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM2ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM4ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM4ViveSR_StartModule() check pass
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM4ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM4ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM4ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM4_00000
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] SM4ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] ViveSR_ModuleLink() start
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] LM2-4_MODE1_00000
+[Vive SRWorks] [2019-01-14 11:08:58] [LOG] ViveSR_ModuleLink() end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:09:01] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:09:10] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:09:19] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:09:28] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:09:38] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:09:47] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:09:56] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:10:05] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:10:14] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:10:23] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:10:32] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:10:41] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:10:50] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:10:59] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:11:09] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:11:18] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:11:27] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:11:36] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:11:45] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:11:54] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:12:03] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:12:12] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:12:21] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:12:30] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:12:39] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:12:49] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:12:58] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:13:07] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:13:16] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:13:25] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:13:34] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:13:43] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:13:52] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:14:01] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:14:10] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:14:19] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:14:29] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:14:38] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:14:47] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:14:56] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:15:05] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:15:14] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:15:23] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:15:32] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:15:41] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:15:50] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:16:00] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:16:09] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:16:18] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:16:27] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:16:36] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:16:45] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:16:54] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:17:03] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:17:12] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:17:21] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:17:31] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:17:40] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:17:49] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:17:58] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:07] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:16] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:25] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:34] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:43] [LOG] module alive
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-0
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:52] [LOG] TurnOff
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:52] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:52] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:52] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:52] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:52] [LOG] TurnOff end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:52] [LOG] ~Undistortion table
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 11:18:52] [LOG] ~Undistortion table
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-0_end
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-1
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-1_end
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-2
+[ENGINE_DEPTH_2] [2019-01-14 11:18:52] [LOG] release_S
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-2_end
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-3
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-3_end
+[Vive SRWorks] [2019-01-14 11:18:52] [LOG] ViveSR_Stop() phase2-4
+[Vive SRWorks] [2019-01-14 11:18:53] [LOG] ViveSR_Stop() phase2-4_end
+[Vive SRWorks] [2019-01-14 11:18:53] [LOG] ViveSR_Stop() phase2-5
+[Vive SRWorks] [2019-01-14 11:18:53] [LOG] ViveSR_Stop() phase2-5_end
+[Vive SRWorks] [2019-01-14 11:18:53] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2019-01-14 11:18:53] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2019-01-14 11:18:53] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2019-01-14 11:42:21] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2019-01-14 11:42:22] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] CPU GetMemory Total : 16194.000000
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] CPU GetMemory InUse : 5920.000000
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] GPU : GeForce GTX 1070
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] GPU driver : 39125
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] GPU memory usage : 1865.382813
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] GPU memory loading: 12
+[Vive SRWorks] [2019-01-14 15:11:06] [LOG] ViveSR_CreateModule() start
+[JSON] [2019-01-14 15:11:06] [LOG] found steam install path
+[JSON] [2019-01-14 15:11:06] [LOG] using device : LHR-46303FE2
+[JSON] [2019-01-14 15:11:06] [LOG] using system : lighthouse
+[JSON] [2019-01-14 15:11:07] [LOG] found device config file : C:\Program Files (x86)\Steam\config\lighthouse\LHR-46303FE2\config.json
+[JSON] [2019-01-14 15:11:07] [LOG] Cali_V2D_00000
+[JSON] [2019-01-14 15:11:08] [LOG] MIE_GCP_00000
+[JSON] [2019-01-14 15:11:08] [LOG] found steam install path
+[JSON] [2019-01-14 15:11:08] [LOG] using device : LHR-46303FE2
+[JSON] [2019-01-14 15:11:08] [LOG] using system : lighthouse
+[JSON] [2019-01-14 15:11:08] [LOG] found device config file : C:\Program Files (x86)\Steam\config\lighthouse\LHR-46303FE2\config.json
+[JSON] [2019-01-14 15:11:08] [LOG] Cali_V2D_00000
+[JSON] [2019-01-14 15:11:08] [LOG] MIE_GCP_00000
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] SeeThroughModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] CM_MT1_MID0_00000
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] CM_MT4_MID2_00000
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] ReconsModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] CM_MT5_MID4_00000
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] SM0ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] SM0ViveSR_StartModule() check pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:08] [LOG] initialization mode 2-2
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:08] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:08] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:08] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:08] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:08] [LOG] initialization mode end2-2
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] SM0ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:11:08] [LOG] SM0ViveSR_StartModule() initial pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:11] [LOG] TurnOn
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:12] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:12] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:12] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:12] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:12] [LOG] TurnOn end
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM0ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM0_00000
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM0ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM2ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM2ViveSR_StartModule() check pass
+[ENGINE_DEPTH_2] [2019-01-14 15:11:12] [LOG] init_S
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM2ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM2ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM2ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM2_00000
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM2ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM4ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM4ViveSR_StartModule() check pass
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM4ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM4ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM4ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM4_00000
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] SM4ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] ViveSR_ModuleLink() start
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] LM2-4_MODE1_00000
+[Vive SRWorks] [2019-01-14 15:11:12] [LOG] ViveSR_ModuleLink() end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:20] [LOG] module alive
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-0
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:23] [LOG] TurnOff
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:23] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:23] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:23] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:23] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:23] [LOG] TurnOff end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:23] [LOG] ~Undistortion table
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:23] [LOG] ~Undistortion table
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-0_end
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-1
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-1_end
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-2
+[ENGINE_DEPTH_2] [2019-01-14 15:11:23] [LOG] release_S
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-2_end
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-3
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-3_end
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-4
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-4_end
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-5
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase2-5_end
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2019-01-14 15:11:23] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] CPU GetMemory Total : 16194.000000
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] CPU GetMemory InUse : 6472.000000
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] GPU : GeForce GTX 1070
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] GPU driver : 39125
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] GPU memory usage : 2109.917969
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] GPU memory loading: 10
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] SeeThroughModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] CM_MT1_MID0_00000
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] CM_MT4_MID2_00000
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] ReconsModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] CM_MT5_MID4_00000
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] SM0ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] SM0ViveSR_StartModule() check pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:34] [LOG] initialization mode 2-2
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:34] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:34] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:34] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:34] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:34] [LOG] initialization mode end2-2
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] SM0ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:11:34] [LOG] SM0ViveSR_StartModule() initial pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:37] [LOG] TurnOn
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:37] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:37] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:37] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:37] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:37] [LOG] TurnOn end
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM0ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM0_00000
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM0ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM2ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM2ViveSR_StartModule() check pass
+[ENGINE_DEPTH_2] [2019-01-14 15:11:37] [LOG] init_S
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM2ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM2ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM2ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM2_00000
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM2ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM4ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:11:37] [LOG] SM4ViveSR_StartModule() check pass
+[Vive SRWorks] [2019-01-14 15:11:38] [LOG] SM4ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:11:38] [LOG] SM4ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 15:11:38] [LOG] SM4ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:11:38] [LOG] SM4_00000
+[Vive SRWorks] [2019-01-14 15:11:38] [LOG] SM4ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:11:38] [LOG] ViveSR_ModuleLink() start
+[Vive SRWorks] [2019-01-14 15:11:38] [LOG] LM2-4_MODE1_00000
+[Vive SRWorks] [2019-01-14 15:11:38] [LOG] ViveSR_ModuleLink() end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:44] [LOG] module alive
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-0
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:45] [LOG] TurnOff
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:45] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:45] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:45] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:45] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:45] [LOG] TurnOff end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:45] [LOG] ~Undistortion table
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:11:45] [LOG] ~Undistortion table
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-0_end
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-1
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-1_end
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-2
+[ENGINE_DEPTH_2] [2019-01-14 15:11:45] [LOG] release_S
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-2_end
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-3
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-3_end
+[Vive SRWorks] [2019-01-14 15:11:45] [LOG] ViveSR_Stop() phase2-4
+[Vive SRWorks] [2019-01-14 15:11:46] [LOG] ViveSR_Stop() phase2-4_end
+[Vive SRWorks] [2019-01-14 15:11:46] [LOG] ViveSR_Stop() phase2-5
+[Vive SRWorks] [2019-01-14 15:11:46] [LOG] ViveSR_Stop() phase2-5_end
+[Vive SRWorks] [2019-01-14 15:11:46] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2019-01-14 15:11:46] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2019-01-14 15:11:46] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] SetParamInt_10020UNKONW_MODULE
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] ViveSR_Initial() success
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] SRWorks Version 0.7.5.0
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] CPU : Windows 8+
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] CPU GetMemory Total : 16194.000000
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] CPU GetMemory InUse : 6146.000000
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] GPU : GeForce GTX 1070
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] GPU driver : 39125
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] GPU memory usage : 2427.550781
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] GPU memory loading: 11
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] SeeThroughModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] CM_MT1_MID0_00000
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] CM_MT4_MID2_00000
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] ViveSR_CreateModule() start
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] ReconsModuleSetDevice:: D3DDevice
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] CM_MT5_MID4_00000
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] ViveSR_CreateModule() end
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] SM0ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] SM0ViveSR_StartModule() check pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:32] [LOG] initialization mode 2-2
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:32] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:32] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:32] [LOG] Create Mapping table start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:32] [LOG] Create Mapping table end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:32] [LOG] initialization mode end2-2
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] SM0ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:33:32] [LOG] SM0ViveSR_StartModule() initial pass
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:35] [LOG] TurnOn
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:35] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:35] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:35] [LOG] loading undistortion parameters start
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:35] [LOG] loading undistortion parameters end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:35] [LOG] TurnOn end
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM0ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM0_00000
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM0ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM2ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM2ViveSR_StartModule() check pass
+[ENGINE_DEPTH_2] [2019-01-14 15:33:35] [LOG] init_S
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM2ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM2ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM2ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM2_00000
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM2ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM4ViveSR_StartModule() start
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM4ViveSR_StartModule() check pass
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM4ViveSR_StartModule() initial end
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM4ViveSR_StartModule() initial pass
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM4ViveSR_StartModule() start pass
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM4_00000
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] SM4ViveSR_StartModule() end
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] ViveSR_ModuleLink() start
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] LM2-4_MODE1_00000
+[Vive SRWorks] [2019-01-14 15:33:35] [LOG] ViveSR_ModuleLink() end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:43] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:33:52] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:34:01] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:34:10] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:34:19] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:34:29] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:34:38] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:34:47] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:34:56] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:35:05] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:35:14] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:35:23] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:35:32] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:35:41] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:35:50] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:35:59] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:36:09] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:36:18] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:36:27] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:36:36] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:36:45] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:36:54] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:37:03] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:37:12] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:37:21] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:37:30] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:37:39] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:37:49] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:37:58] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:38:07] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:38:16] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:38:25] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:38:34] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:38:43] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:38:52] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:39:01] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:39:10] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:39:20] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:39:29] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:39:38] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:39:47] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:39:56] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:40:05] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:40:14] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:40:23] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:40:32] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:40:42] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:40:51] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:41:00] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:41:09] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:41:18] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:41:27] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:41:36] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:41:45] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:41:54] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:42:03] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:42:12] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:42:21] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:42:31] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:42:40] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:42:49] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:42:58] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:43:07] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:43:16] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:43:25] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:43:34] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:43:43] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:43:52] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:01] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:10] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:20] [LOG] module alive
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:29] [LOG] module alive
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() start
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase1
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-0
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:32] [LOG] TurnOff
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:32] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:32] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:32] [LOG] ~DefishApp
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:32] [LOG] ~DefishApp end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:32] [LOG] TurnOff end
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:32] [LOG] ~Undistortion table
+[DEVICE_VIVE_HMD_DUALCAM_0_DLL] [2019-01-14 15:44:32] [LOG] ~Undistortion table
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-0_end
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-1
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-1_end
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-2
+[ENGINE_DEPTH_2] [2019-01-14 15:44:32] [LOG] release_S
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-2_end
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-3
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-3_end
+[Vive SRWorks] [2019-01-14 15:44:32] [LOG] ViveSR_Stop() phase2-4
+[Vive SRWorks] [2019-01-14 15:44:33] [LOG] ViveSR_Stop() phase2-4_end
+[Vive SRWorks] [2019-01-14 15:44:33] [LOG] ViveSR_Stop() phase2-5
+[Vive SRWorks] [2019-01-14 15:44:33] [LOG] ViveSR_Stop() phase2-5_end
+[Vive SRWorks] [2019-01-14 15:44:33] [LOG] ViveSR_Stop() phase3
+[Vive SRWorks] [2019-01-14 15:44:33] [LOG] STP_WORKs__00000
+[Vive SRWorks] [2019-01-14 15:44:33] [LOG] ViveSR_Stop() end
+[Vive SRWorks] [2019-01-14 16:21:07] [LOG] UnitySetGraphicsDevice:: D3D11
+[Vive SRWorks] [2019-01-14 16:21:07] [LOG] UnitySetGraphicsDevice:: D3D11
